@@ -1,0 +1,11 @@
+{{ define "main" }}
+  {{ .Content }}
+  
+  {{ if not .Params.nolist }}
+    {{ $paginator := .Paginate .Data.Pages }}
+    {{ range $paginator.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+    {{ partial "pagination" . }}
+  {{ end }}
+{{ end }}

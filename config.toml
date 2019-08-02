@@ -1,0 +1,11 @@
+baseURL = "https://die-partei.sh/"
+languageCode = "de-de"
+title = "Die PARTEI"
+theme = "die-partei"
+uglyurls = false
+categories = false
+tags = false
+
+[permalinks]
+post = "/:section/:slug"
+node = "/:filename"

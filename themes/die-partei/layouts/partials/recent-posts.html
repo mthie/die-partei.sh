@@ -1,0 +1,6 @@
+{{ .Content }}
+
+{{ range first 5 (where .Data.Pages "Section" "post") }}
+  {{ partial "single-post" . }}
+  <hr>
+{{ end }}

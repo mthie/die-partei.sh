@@ -1,0 +1,5 @@
+---
+title: Impressum
+date: 2019-08-01T00:00:00Z
+slug: impressum
+---
