@@ -1,18 +1,12 @@
 name = "Die Partei Schleswig-Holstein"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+licenselink = "https://github.com/mthie/die-partei.sh/theme/die-partei/master/LICENSE"
 description = ""
-homepage = "https://partei.sh/"
+homepage = "https://die-partei.sh/"
 tags = []
 features = []
 min_version = "0.41"
 
 [author]
-  name = ""
-  homepage = ""
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Martin Thielecke"
+  homepage = "mthie.com"
