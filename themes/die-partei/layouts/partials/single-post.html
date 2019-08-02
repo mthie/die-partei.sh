@@ -1,9 +1,12 @@
 {{ if .Title }}
-<h3>
+<h1>
     <a href="{{ .Permalink }}">{{ .Title }}</a>
-</h3>
+</h1>
+<hr>
 
 {{ end }}
+{{ if gt .PublishDate.Unix 0 }}
 <small class="publishDate">{{ .PublishDate.Format "02.01.2006 - 15:04" }}</small>
+{{ end }}
 
 {{ .Content }}

@@ -1,5 +1,10 @@
 {{ define "main" }}
 
+{{ if .Section }}
+<a href="/{{ .Section }}" class="back-button">&laquo; Zurück zur Übersicht</a>
+<hr>
+{{ end }}
+
 {{ if .Title }}
 <h1>{{ .Title }}</h1>
 {{ end }}

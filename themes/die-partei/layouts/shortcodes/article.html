@@ -1,0 +1,10 @@
+<div class="external-article">
+  <a href="{{ with .Get "url" }}{{ . }}{{ end }}" target="_blank">
+    {{ with .Get "img" }}
+    <img src="{{ . }}">
+    {{ end }}
+
+    <h4>{{ .Inner }}</h4>
+    <span class="url">{{ with .Get "url" }}{{ . }}{{ end }}</span>
+  </a>
+</div>

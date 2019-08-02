@@ -2,6 +2,7 @@
   {{ .Content }}
   
   {{ if not .Params.nolist }}
+    <hr>
     {{ $paginator := .Paginate .Data.Pages }}
     {{ range $paginator.Pages }}
       {{ .Render "summary" }}
