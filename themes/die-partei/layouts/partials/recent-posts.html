@@ -1,6 +1,13 @@
 {{ .Content }}
 
-{{ range first 5 (where .Data.Pages "Section" "post") }}
-  {{ partial "single-post" . }}
-  <hr>
+{{ if .Page.Params.recentfrom }}
+  {{ range first 5 (where .Data.Pages "Section" .Page.Params.recentfrom) }}
+    <hr>
+    {{ partial "single-post" . }}
+  {{ end }}
+{{ else }}
+  {{ range first 5 (where .Data.Pages "Section" "post") }}
+    <hr>
+    {{ partial "single-post" . }}
+  {{ end }}
 {{ end }}
