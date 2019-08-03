@@ -1,5 +1,10 @@
 ---
 title: Die PARTEI – Kreisverband Pinneberg
+social:
+- https://www.facebook.com/dieparteikp/
+- https://twitter.com/PARTEI_PI
+- https://m.me/dieparteikp
+- https://die-partei.net/pinneberg/
 submenu:
 - name: Programm
   url: /pi/programm/

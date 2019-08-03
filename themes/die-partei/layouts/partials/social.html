@@ -1,0 +1,30 @@
+{{ if $.Page.Params.social }}
+<div class="social-links">
+  {{ range $.Page.Params.social }}
+    <a href="{{ . }}" target="_blank" class="{{ if hasPrefix . "https://www.facebook.com/"}}
+      facebook
+    {{ else if hasPrefix . "https://twitter.com/"}}
+      twitter
+    {{ else if hasPrefix . "https://www.instagram.com/"}}
+      instagram
+    {{ else if hasPrefix . "https://www.youtube.com/"}}
+      youtube
+    {{ else if hasPrefix . "https://t.me/"}}
+      telegram
+    {{ else if hasPrefix . "https://m.me/"}}
+      fb-messenger
+    {{ else if hasPrefix . "https://wa.me/"}}
+      whatsapp
+    {{ else if hasPrefix . "mailto:"}}
+      email
+    {{ else }}
+      web
+    {{ end }}">
+      {{ . }}
+    </a>
+  {{ end }}
+</div>
+<hr>
+{{ else }}
+Keine Socials
+{{ end }}

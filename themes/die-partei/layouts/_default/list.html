@@ -2,6 +2,7 @@
 
   {{ .Content }}
 
+  {{ partial "social" . }}
   {{ partial "submenu" . }}
   
   {{ if not .Params.nolist }}
