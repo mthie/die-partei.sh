@@ -8,7 +8,9 @@
     <hr>
     {{ $paginator := .Paginate .Data.Pages }}
     {{ range $paginator.Pages }}
-      {{ .Render "summary" }}
+      {{ if gt .PublishDate.Unix 0 }}
+        {{ .Render "summary" }}
+      {{ end }}
     {{ end }}
     {{ partial "pagination" . }}
   {{ end }}

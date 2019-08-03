@@ -120,6 +120,12 @@ body {
   padding: 0.3em;
 }
 
+@media (max-width: 960px) {
+  .external-article {
+    max-width: 100%;
+  }
+}
+
 .external-article img {
   width: 100%;
 }
