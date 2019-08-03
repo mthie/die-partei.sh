@@ -1,5 +1,12 @@
 ---
 title: Unser Programm
+submenu:
+- name: Programm
+  url: /pi/programm/
+- name: Köpfe
+  url: /pi/koepfe/
+- name: Geschichte
+  url: /pi/geschichte/
 ---
 
 ## Naturschutz und Klima
