@@ -7,7 +7,7 @@ submenu:
 
 ### Unser aktueller Vorstand:
 
-1\. Vorsitzender: Tom Friedrichsen
+1\. Vorsitzender: Kevin Kazmierczak
 
 2\. Vorsitzender: Jannis Haesihus
 
