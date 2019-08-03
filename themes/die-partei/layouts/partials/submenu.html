@@ -1,0 +1,13 @@
+{{ with .Page.Params.submenu }}
+<div id="sub-menu">
+  <ul class="nav nav-fill">
+    {{ range . }}
+      {{ $src := $.Page.Permalink | relURL }}
+      {{ $dst := .url | relURL }}
+      <li class="nav-item {{ if eq $src $dst }}active{{ end }}">
+        <a href="{{ .url }}" class="nav-link">{{ .name }}</a>
+      </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
