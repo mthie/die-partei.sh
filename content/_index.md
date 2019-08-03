@@ -1,8 +1,7 @@
 ---
 title: Die PARTEI - Landesverband Schleswig-Holstein
-date: 2019-07-31T10:00:00Z
-nolist: true
+recentfrom: sh
 ---
 
-# Herzlich willkommen bei der Partei<br>**Die PARTEI** in Schleswig-Holstein!
+# Herzlich willkommen bei der Partei **Die PARTEI** in Schleswig-Holstein!
 
