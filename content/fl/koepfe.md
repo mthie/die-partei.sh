@@ -12,5 +12,3 @@ submenu:
 2\. Vorsitzender: Jannis Haesihus
 
 Schatzmeister: Daniel Steinberg
-
-Eike Wenzel
