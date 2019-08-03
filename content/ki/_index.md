@@ -1,5 +1,9 @@
 ---
-title: Die PARTEI &ndash; Kreisverband Kiel
-date: 2019-07-31T10:00:00Z
+title: Die PARTEI – Kreisverband Kiel
+submenu:
+- name: Köpfe
+  url: /ki/koepfe/
 ---
-### Herzlich willkommen Kiel!
+
+# Herzlich willkommen bei der Partei Die PARTEI &ndash; Kreisverband Kiel!
+
