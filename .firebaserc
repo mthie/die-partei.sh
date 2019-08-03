@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "die-partei-sh"
+  },
+  "hosting": {
+    "rewrites": [ {
+      "source": "**",
+      "destination": "/index.html"
+    }, {
+      "source": "/**{,/**}",
+      "destination": "/index.html"
+    }, {
+      "source": "!/@(js|css)/**",
+      "destination": "/index.html"
+    }]
+  }
+}
