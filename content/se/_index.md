@@ -4,8 +4,6 @@ social:
 - https://www.facebook.com/DiePARTEISegeberg/
 - https://m.me/DiePARTEISegeberg
 submenu:
-- name: Programm
-  url: /se/programm/
 - name: Köpfe
   url: /se/koepfe/
 ---
