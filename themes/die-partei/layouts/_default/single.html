@@ -5,10 +5,10 @@
 	{
 			"@context" : "http://schema.org",
 			"@type" : "BlogPosting",
-			"articleSection" : "{{ .Section }}",
-			"name" : "{{ .Title }}",
-			"headline" : "{{ .Title }}",
-			"description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+			"articleSection" : {{ .Section | safeHTML }},
+			"name" : {{ .Title | safeHTML }},
+			"headline" : {{ .Title | safeHTML }},
+      "description" : {{ if .Description }}{{ .Description | safeHTML }}{{ else }}{{if .IsPage}}{{ .Plain | safeHTML }}{{ end }}{{ end }},
 			{{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
       "author" : {
         "@type": "Person",
@@ -42,9 +42,9 @@
         "@type": "WebPage",
         "@id": "https://die-partei.sh/"
       },
-			"copyrightYear" : "{{ .Date.Format "2006" }}",
-			"datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
-			"dateModified" : "{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
+			"copyrightYear" : {{ .Date.Format "2006" | safeHTML }},
+			"datePublished": {{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
+			"dateModified" : {{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }},
 			"url" : "{{ .Permalink }}",
 			"wordCount" : "{{ .WordCount }}",
 			"image" : [ "{{ .Site.BaseURL }}logos/{{ .Site.Params.avatar }}" ],
