@@ -13,6 +13,8 @@
       telegram
     {{ else if hasPrefix . "https://m.me/"}}
       fb-messenger
+    {{ else if hasPrefix . "https://discord.gg/"}}
+      discord
     {{ else if hasPrefix . "https://wa.me/"}}
       whatsapp
     {{ else if hasPrefix . "mailto:"}}

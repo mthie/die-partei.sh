@@ -192,6 +192,10 @@ body {
   background-image: url('/social-icons/whatsapp.svg');
 }
 
+.social-links a.discord {
+  background-image: url('/social-icons/discord.svg');
+}
+
 .social-links a.youtube {
   background-image: url('/social-icons/youtube.svg');
 }
