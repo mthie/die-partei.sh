@@ -134,6 +134,15 @@ body {
   }
 }
 
+#application-form {
+  background-image: url('/sh/mitgliedschaft.png');
+  bottom: 0;
+  height: 128px;
+  position: fixed;
+  right: 0;
+  width: 128px;
+}
+
 .external-article img {
   width: 100%;
 }
