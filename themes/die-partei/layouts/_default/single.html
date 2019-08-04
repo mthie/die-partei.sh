@@ -1,5 +1,58 @@
 {{ define "main" }}
 
+	{{ if .IsPage }}
+	<script type="application/ld+json">
+	{
+			"@context" : "http://schema.org",
+			"@type" : "BlogPosting",
+			"articleSection" : "{{ .Section }}",
+			"name" : "{{ .Title }}",
+			"headline" : "{{ .Title }}",
+			"description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
+			{{ with .Site.LanguageCode }}"inLanguage": "{{ . }}",{{ end }}
+      "author" : {
+        "@type": "Person",
+				"name": "{{ $.Site.Params.author }}"
+			},
+      "creator" : {
+        "@type": "Person",
+				"name": "{{ $.Site.Params.author }}"
+			},
+      "accountablePerson" : {
+        "@type": "Person",
+				"name": "{{ $.Site.Params.author }}"
+			},
+      "copyrightHolder" : {
+        "@type": "Person",
+				"name": "{{ $.Site.Params.author }}"
+			},
+      "publisher" : {
+        "@type": "Organization",
+        "name": "Die PARTEI - Landesverband Schleswig-Holstein",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ .Site.BaseURL }}logos/{{ .Site.Params.avatar }}"
+        },
+        "founder": {
+          "@type": "Person",
+          "name": "{{ $.Site.Params.author }}"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://die-partei.sh/"
+      },
+			"copyrightYear" : "{{ .Date.Format "2006" }}",
+			"datePublished": "{{ .PublishDate.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
+			"dateModified" : "{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}",
+			"url" : "{{ .Permalink }}",
+			"wordCount" : "{{ .WordCount }}",
+			"image" : [ "{{ .Site.BaseURL }}logos/{{ .Site.Params.avatar }}" ],
+			"keywords" : [ {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}"{{ $e }}"{{ end }} ]
+	}
+	</script>
+	{{ end }}
+	
 {{ if .Section }}
 <a href="/{{ .Section }}" class="back-button">&laquo; Zurück zur Übersicht</a>
 <hr>

@@ -9,3 +9,7 @@ tags = false
 [permalinks]
 post = "/:section/:slug"
 node = "/:filename"
+
+[params]
+author = "Die PARTEI - Landesverband Schleswig-Holstein"
+avatar = "square.jpg"
