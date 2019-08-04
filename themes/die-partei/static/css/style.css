@@ -80,6 +80,12 @@ body {
   text-align: center;
 }
 
+@media (max-width: 768px) {
+  #menu li.no-small {
+    display: none;
+  }
+}
+
 #menu a,
 #menu a:link,
 #menu a:hover,
