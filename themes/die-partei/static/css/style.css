@@ -38,7 +38,7 @@ body {
 #main h1,
 #main h2,
 #main h3 {
-  color: #b91023;
+  color: #b92837;
   font-family: 'DieFONT BoldCondensed';
   font-weight: bold;
   font-style: normal;
@@ -60,7 +60,7 @@ body {
 #main a:link,
 #main a:hover,
 #main a:visited {
-  color: #b91023;
+  color: #b92837;
   font-weight: bold;
   text-decoration: none;
 }
@@ -74,7 +74,7 @@ body {
 }
 
 #menu {
-	background-color: #b91023;
+	background-color: #b92837;
 	color: white;
 	font-weight: 700;
   text-align: center;
