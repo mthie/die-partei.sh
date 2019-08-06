@@ -7,8 +7,8 @@ submenu:
 
 ### Unser aktueller Vorstand:
 
-1\. Kreisvorstand: Jonathan
+1\. Vorsitzender: Jonathan
 
-2\. Kreisvorstand: Joschua
+2\. Vorsitzender: Joschua
 
-Schatzmeisterin: Yorik
+Schatzmeister: Yorik
