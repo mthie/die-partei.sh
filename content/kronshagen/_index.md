@@ -8,6 +8,9 @@ social:
 - https://norden.social/@PARTEI_Kronshagen
 - https://pixelfed.de/DiePARTEI_Kh
 - https://liberapay.com/PARTEI-OV_Kronshagen
+submenu:
+- name: Köpfe
+  url: /kronshagen/koepfe/
 ---
 
 # Herzlich willkommen bei der Partei Die PARTEI &ndash; Ortsverband Kronshagen!
