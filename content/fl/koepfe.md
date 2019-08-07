@@ -11,4 +11,4 @@ submenu:
 
 2\. Vorsitzender: Jannis Haesihus
 
-Schatzmeister: Daniel Steinberg
+Schatzmeister: Jonas Niklesz
