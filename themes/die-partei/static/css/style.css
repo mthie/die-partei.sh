@@ -148,7 +148,8 @@ body {
 }
 
 .external-article h4 {
-  color: black;
+  color: #b92837;
+  font-family: 'DieFONT BoldCondensed';
   font-size: 1.1em;
   font-weight: normal;
   padding: 0.4em;
