@@ -3,6 +3,7 @@ title: Die PARTEI – Kreisverband Pinneberg
 social:
 - https://www.facebook.com/dieparteikp/
 - https://twitter.com/PARTEI_PI
+- https://www.instagram.com/thereal.parteipinneberg/
 - https://m.me/dieparteikp
 - https://die-partei.net/pinneberg/
 submenu:
