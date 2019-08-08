@@ -5,7 +5,7 @@ social:
 - https://twitter.com/DiePARTEI_Kh/
 - https://www.facebook.com/DiePARTEI.Kronshagen
 - https://www.instagram.com/diepartei.kh/
-- https://discord.gg/YwYsdGR
+- https://discord.gg/B9mAqtm
 - https://norden.social/@PARTEI_Kronshagen
 - https://pixelfed.de/DiePARTEI_Kh
 - https://liberapay.com/PARTEI-OV_Kronshagen
