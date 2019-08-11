@@ -5,6 +5,7 @@ theme = "die-partei"
 uglyurls = false
 categories = false
 tags = false
+canonifyURLs = true
 
 [permalinks]
 post = "/:section/:slug"
