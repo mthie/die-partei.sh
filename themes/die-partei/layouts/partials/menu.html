@@ -1,10 +1,10 @@
 <div id="menu" class="container">
   <ul class="nav nav-fill">
     <li class="nav-item">
-      <a href="/" class="nav-link">Home</a>
+      <a href="{{ $.Site.BaseURL }}" class="nav-link">Home</a>
     </li>
     <li class="nav-item">
-      <a href="/verbaende/" class="nav-link">Verb&auml;nde</a>
+      <a href="{{ $.Site.BaseURL }}verbaende/" class="nav-link">Verb&auml;nde</a>
     </li>
     <li class="nav-item no-small">
       <a href="https://die-partei.de" class="nav-link">BundesPARTEI</a>
@@ -13,7 +13,7 @@
       <a href="https://die-partei.net" class="nav-link">PARTEINetzwerk</a>
     </li>
     <li class="nav-item">
-      <a href="/impressum/" class="nav-link">Impressum</a>
+      <a href="{{ $.Site.BaseURL }}impressum/" class="nav-link">Impressum</a>
     </li>
   </ul>
 </div>
