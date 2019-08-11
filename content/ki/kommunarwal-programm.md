@@ -8,4 +8,3 @@ submenu:
 ---
 
 {{< gallery dir="/ki/kommunarwal-programm-2018/" caption-position="none" hover-effect="none" item-height="33%" />}}
-{{< load-photoswipe >}}

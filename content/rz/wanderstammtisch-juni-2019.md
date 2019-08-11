@@ -12,5 +12,3 @@ Nach einem furiosen Wahlsieg: Freuen, feiern und PARTEI-Freunde treffen! Melde D
 {{< gallery dir="/rz/wanderstammtisch-juni-2019/" caption-position="none" hover-effect="none" />}}
 
 Funfact: Alle Helden des Plakateauf- und abhängens bekommen das erste Getränk umsonst.
-
-{{< load-photoswipe >}}

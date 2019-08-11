@@ -1,8 +1,11 @@
 ---
 title: Immer eine Reise wert! - Die Deutsche Achterbahn
 date: 2019-07-15T19:29:00+0200
+tags: []
+categories: []
+submenu: []
+social: []
 ---
-
 Nach dem Motto "Gondeln statt Pendeln" forderten die Grünen neuerdings eine Seilbahn zwischen Elmshorn und Hamburg.
 
 Mobilität weiter denken, reicht heutzutage jedoch nicht mehr: Man muss sie auch schneller denken!
@@ -17,5 +20,3 @@ Noch nie sind Sie aufgeweckter am Arbeitsplatz angekommen - nicht nur die Achter
 Weiterhin leistet die Achterbahn einen wichtigen Beitrag zur Reinhaltung der Bahnhöfe: Die Kotze etwaiger Partygänger bleibt garantiert auf der Strecke.
 
 Achterbahn zwischen Elmshorn und Hamburg - weil Pendeln manchmal zum Kotzen ist.
-
-{{< load-photoswipe >}}

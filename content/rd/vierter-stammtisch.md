@@ -11,4 +11,3 @@ Danke auch an unsere Gäste von [Die PARTEI Herzogtum Lauenburg](https://www.fac
 Ganz besonders Beglückwünschen möchte wir außerdem die junge Dame aus Düsseldorf, welche mit sofortiger Wirkung auch Mitglied einer sehr guten Partei ist. <3
 
 {{< gallery dir="/rd/vierter-stammtisch/" caption-position="none" hover-effect="none" />}}
-{{< load-photoswipe >}}
