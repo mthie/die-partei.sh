@@ -11,7 +11,7 @@ Nach dem Motto "Gondeln statt Pendeln" forderten die Grünen neuerdings eine Sei
 Mobilität weiter denken, reicht heutzutage jedoch nicht mehr: Man muss sie auch schneller denken!
 Wir von Die PARTEI Kreis Pinneberg fordern daher eine Achterbahn zwischen Elmshorn und Hamburg - "Kotzen statt Gondeln"!
 
-{{< gallery dir="/pi/achterbahn/" caption-position="none" hover-effect="none" item-height="48%" />}}
+{{< figure src="/pi/achterbahn/achterbahn.jpg" width="30%" >}}
 
 Damit heben wir das bewährte Prinzip der Schiene auf ein völlig neues Level: Schneller, spannender und wesentlich spaßiger!
 Nicht nur werden ein steigender Meerespiegel und Bäume den Verkehr nicht beeinträchtigen, er wird auch wesentlich angenehmer!
