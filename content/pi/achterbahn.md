@@ -6,7 +6,7 @@ categories: []
 submenu: []
 social: []
 ---
-Nach dem Motto "Gondeln statt Pendeln" forderten die Grünen neuerdings eine Seilbahn zwischen Elmshorn und Hamburg.
+Nach dem Motto "Gondeln statt Pendeln" forderten die Grünen neuerdings eine Seilbahn zwischen Elmshorn und Hamburg!
 
 Mobilität weiter denken, reicht heutzutage jedoch nicht mehr: Man muss sie auch schneller denken!
 Wir von Die PARTEI Kreis Pinneberg fordern daher eine Achterbahn zwischen Elmshorn und Hamburg - "Kotzen statt Gondeln"!
