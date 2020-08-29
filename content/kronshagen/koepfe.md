@@ -7,8 +7,8 @@ submenu:
 
 ### Unser aktueller Vorstand:
 
-1\. Vorsitzender: Jonathan
+1\. Vorsitzender: Joschua
 
-2\. Vorsitzender: Joschua
+2\. Vorsitzender: Yorik
 
-Schatzmeister: Yorik
+Schatzmeister: Jörg
