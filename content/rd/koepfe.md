@@ -7,8 +7,12 @@ submenu:
 
 ### Unser aktueller Vorstand:
 
-1\. Kreisvorstand: Tim
+1\. Vorsitzender: Nils
 
-2\. Kreisvorstand: Linus
+2\. Vorsitzender: Ruben
 
-Schatzmeisterin: Lisa
+Schatzmeister: Yorik
+
+Politischer Geschäftsführer: Christian
+
+Generalsekretär: Joschua
