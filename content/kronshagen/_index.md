@@ -1,10 +1,10 @@
 ---
 title: Die PARTEI – Ortsverband Kronshagen
 social:
-- http://www.die-partei-kronshagen.de/
+- https://www.dieparteikronshagen.de/
 - https://twitter.com/DiePARTEI_Kh/
 - https://www.facebook.com/DiePARTEI.Kronshagen
-- https://www.instagram.com/diepartei.kh/
+- https://www.instagram.com/dieparteikronshagen/
 - https://discord.gg/B9mAqtm
 - https://norden.social/@PARTEI_Kronshagen
 - https://pixelfed.de/DiePARTEI_Kh
