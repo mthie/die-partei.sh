@@ -1,6 +1,6 @@
 ---
 title: Impressum
-date: 2019-08-01T00:00:00Z
+date: 2021-01-10T00:00:00Z
 slug: impressum
 ---
 
@@ -8,19 +8,22 @@ slug: impressum
 
 **Angaben gemäß § 5 TMG sowie verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**
 
-Die PARTEI Schleswig-Holstein<br>
-c/o Jannis Langmaack<br>
-Großflecken 45<br>
-24534 Neumünster<br>
-Telefon: +49 (0) 4321 9649905<br>
+Die PARTEI Schleswig-Holstein <br>
+c/o Jens Wemhöner <br>
+Jungfernstieg 7 <br>
+24103 Kiel <br>
+Telefon: +49 1520 7179867 <br>
 E-Mail: mail@die-partei-sh.de
 
 ### Vorstand des Landesverbandes Schleswig-Holstein
 
-Vorsitzender: Jannis Langmaack<br>
-stellv. Vorsitzender: Frauke Koche<br>
-Schatzmeister: Yana Käding<br>
-Generalsekretär: Miriam Borchert
+1. Vorsitzender: Florian Wrobel <br>
+2. Vorsitzende: Simone Kaletsch <br>
+Schatzmeister: Alexander Schacht <br>
+Generalsekretär: Kevin Kazmierczak <br>
+Politische Geschäftsführung: Mara-Lena Zeplin<br>
+Zentralinspektor: Jens Wemhöner <br>
+Politkommissar: Yorik Hansen
 
 **Gründung:** 23. April 2009 in Uelvesbüll
 
