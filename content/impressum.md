@@ -21,7 +21,7 @@ E-Mail: mail@die-partei-sh.de
 2. Vorsitzende: Simone Kaletsch <br>
 Schatzmeister: Alexander Schacht <br>
 Generalsekretär: Kevin Kazmierczak <br>
-Politische Geschäftsführung: Mara-Lena Zeplin<br>
+Politische Geschäftsführung: Yana Käding<br>
 Zentralinspektor: Jens Wemhöner <br>
 Politkommissar: Yorik Hansen
 
