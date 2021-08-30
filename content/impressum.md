@@ -13,12 +13,12 @@ c/o Jens Wemhöner <br>
 Jungfernstieg 7 <br>
 24103 Kiel <br>
 Telefon: +49 1520 7179867 <br>
-E-Mail: mail@die-partei-sh.de
+E-Mail: mail@die-partei.sh
 
 ### Vorstand des Landesverbandes Schleswig-Holstein
 
-1. Vorsitzender: Florian Wrobel <br>
-2. Vorsitzende: Simone Kaletsch <br>
+\1. Vorsitzender: Florian Wrobel <br>
+\2. Vorsitzende: Simone Kaletsch <br>
 Schatzmeister: Alexander Schacht <br>
 Generalsekretär: Kevin Kazmierczak <br>
 Politische Geschäftsführung: Yana Käding<br>
