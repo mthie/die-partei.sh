@@ -17,8 +17,8 @@ E-Mail: mail@die-partei.sh
 
 ### Vorstand des Landesverbandes Schleswig-Holstein
 
-\1. Vorsitzender: Florian Wrobel <br>
-\2. Vorsitzende: Simone Kaletsch <br>
+1\. Vorsitzender: Florian Wrobel <br>
+2\. Vorsitzende: Simone Kaletsch <br>
 Schatzmeister: Alexander Schacht <br>
 Generalsekretär: Kevin Kazmierczak <br>
 Politische Geschäftsführung: Yana Käding<br>
