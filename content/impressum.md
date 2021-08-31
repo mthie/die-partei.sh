@@ -1,9 +1,12 @@
 ---
 title: Impressum
-date: 2021-01-10T00:00:00Z
 slug: impressum
+date: "2021-01-10T00:00:00Z"
+tags: []
+categories: []
+submenu: []
+social: []
 ---
-
 ## Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative - Die PARTEI
 
 **Angaben gemäß § 5 TMG sowie verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**
