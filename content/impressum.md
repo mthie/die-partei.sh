@@ -8,21 +8,21 @@ slug: impressum
 
 **Angaben gemäß § 5 TMG sowie verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**
 
-Die PARTEI Schleswig-Holstein <br>
-c/o Jens Wemhöner <br>
-Jungfernstieg 7 <br>
-24103 Kiel <br>
-Telefon: +49 1520 7179867 <br>
+Die PARTEI Schleswig-Holstein  
+c/o Jens Wemhöner  
+Jungfernstieg 7  
+24103 Kiel  
+Telefon: +49 1520 7179867  
 E-Mail: mail@die-partei.sh
 
 ### Vorstand des Landesverbandes Schleswig-Holstein
 
-1\. Vorsitzender: Florian Wrobel <br>
-2\. Vorsitzende: Simone Kaletsch <br>
-Schatzmeister: Alexander Schacht <br>
-Generalsekretär: Kevin Kazmierczak <br>
-Politische Geschäftsführung: Yana Käding<br>
-Zentralinspektor: Jens Wemhöner <br>
+1\. Vorsitzender: Florian Wrobel  
+2\. Vorsitzende: Simone Kaletsch  
+Schatzmeister: Alexander Schacht  
+Generalsekretär: Kevin Kazmierczak  
+Politische Geschäftsführung: Yana Käding  
+Zentralinspektor: Jens Wemhöner  
 Politkommissar: Yorik Hansen
 
 **Gründung:** 23. April 2009 in Uelvesbüll
