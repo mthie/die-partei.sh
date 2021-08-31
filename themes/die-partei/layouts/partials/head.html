@@ -10,19 +10,32 @@
 		{{ with .Site.LanguageCode }}<meta http-equiv="content-language" content="{{ . }}" />{{ end }}
 
 		{{ if not .Site.Params.OpenGraph.hide }}
-    <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+      <meta name="twitter:description" content="{{ .Summary }}">
 
-		<meta property="og:site_name" content="{{ .Site.Title }}">
-		<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
-    {{ if not .IsHome }}
-      <meta property="og:type" content="article">
-      <meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
-      <meta property="og:description" content="{{ .Summary }}">
-    {{ end }}
-		<meta property="og:url" content="{{ .Permalink }}">
-    {{ if .Params.banner }}
-      <meta property="og:image" content="{{ .Params.banner }}">
-    {{ end }}
+      <meta property="og:site_name" content="{{ .Site.Title }}">
+      <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}">
+      {{ if not .IsHome }}
+        <meta property="og:type" content="article">
+        <meta property="article:published_time" content="{{ .PublishDate.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+        <meta property="og:description" content="{{ .Summary }}">
+      {{ end }}
+      <meta property="og:url" content="{{ .Permalink }}">
+      {{ if .Params.banner }}
+        <meta property="og:image" content="{{ .Params.banner }}">
+      {{ end }}
+
+      {{ $filepath := printf "./static%s" .RelPermalink }}
+      {{ $rel := .RelPermalink }}
+
+      {{ if (fileExists $filepath)}}
+        {{ $files := readDir $filepath }}
+        {{- range $files }}
+        <meta property="og:image" content="{{ $.Site.BaseURL }}{{ strings.TrimLeft "/" $rel }}{{ .Name }}">
+        <meta name="twitter:image" content="{{ $.Site.BaseURL }}{{ strings.TrimLeft "/" $rel }}{{ .Name }}">
+        {{- end }}
+      {{ end }}
 		{{ end }}
 
 		{{ hugo.Generator }}
