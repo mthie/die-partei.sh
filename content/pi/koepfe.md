@@ -1,5 +1,7 @@
 ---
 title: Köpfe
+tags: []
+categories: []
 submenu:
 - name: Programm
   url: /pi/programm/
@@ -7,12 +9,10 @@ submenu:
   url: /pi/koepfe/
 - name: Geschichte
   url: /pi/geschichte/
+social: []
 ---
-
 ### Unser aktueller Vorstand:
 
-1\. Kreisvorstand: Jonas Stiefel
-
-2\. Kreisvorstand: Paul Haverland
-
+1\. Kreisvorstand: Kay Drews  
+2\. Kreisvorstand: Nils Straub  
 Schatzmeister: Adrian György
