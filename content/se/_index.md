@@ -6,6 +6,8 @@ social:
 submenu:
 - name: Köpfe
   url: /se/koepfe/
+social:
+- https://www.instagram.com/die_partei_segeberg/
 ---
 
 # Herzlich willkommen bei der Partei Die PARTEI &ndash; Kreisverband Segeberg!
