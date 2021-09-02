@@ -1,5 +1,6 @@
 ---
 title: Die PARTEI - Landesverband Schleswig-Holstein
+recentfrom: sh
 tags: []
 categories: []
 submenu: []
