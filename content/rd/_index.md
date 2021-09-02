@@ -2,6 +2,7 @@
 title: Die PARTEI – Kreisverband Rendsburg Eckernförde
 social:
 - https://www.facebook.com/DiePARTEIRD
+- https://www.instagram.com/diepartei_rd_eck/
 - https://m.me/DiePARTEIRD
 - http://www.die-partei-rd-eck.de
 submenu:
