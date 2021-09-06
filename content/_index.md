@@ -6,7 +6,7 @@ submenu: []
 social:
 - https://www.facebook.com/DiePARTEISH/
 - https://www.instagram.com/diepartei_sh/
-- https://twitter.com/Die_PARTEI_SH
+- https://twitter.com/DiePARTEILVSH
 recentfrom: sh
 ---
 # Herzlich willkommen bei der Partei **Die PARTEI** in Schleswig-Holstein!
