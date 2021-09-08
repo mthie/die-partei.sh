@@ -1,16 +1,23 @@
 ---
-title: Köpfe
+title: Vorstand
+tags: []
+categories: []
 submenu:
 - name: Köpfe
   url: /ki/koepfe/
 - name: Kommunarwal-Programm 2018
   url: /ki/kommunarwal-programm/
+social: []
+recentfrom: ""
 ---
-
 ### Unser aktueller Vorstand:
 
-Vorsitzender: Jens Wemhöner
+1\. Vorsitzender: Finn Bichmann
 
-stellv. Vorsitzender: Ove Schröter
+2\. Vorsitzende: Lena Wunderlich
 
-Schatzmeister: Inken Marie Beck
+Schatzmeister: Pablo Wittrock
+
+Politische Geschäftsführerin: Therese Salto
+
+Generalsekretär: Ove Schröter
