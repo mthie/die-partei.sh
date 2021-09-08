@@ -21,3 +21,4 @@ Schatzmeister: Pablo Wittrock
 Politische Geschäftsführerin: Therese Salto
 
 Generalsekretär: Ove Schröter
+
