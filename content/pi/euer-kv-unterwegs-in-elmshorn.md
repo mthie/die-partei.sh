@@ -1,6 +1,7 @@
 ---
 title: Euer KV Unterwegs in Elmshorn!
 date: 2021-09-18T16:25:48+0200
+draft: true
 tags: []
 categories: []
 submenu: []
