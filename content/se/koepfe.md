@@ -7,9 +7,10 @@ submenu:
 
 ### Unser aktueller Vorstand:
 
-1\. KV-Vorsitz Marian Kaletsch
+1\. KV-Vorsitz: Alexandra Richter
 
-2\. KV-Vorsitz León Paschen
+2\. KV-Vorsitz: David Höftmann
 
-Schatzmeisterin Simone Kaletsch
+1\. Schatzmeisterin: Michael Nestler
 
+2\. Schatzmeisterin: Beate Schreiber

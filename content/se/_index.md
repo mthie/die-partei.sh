@@ -4,6 +4,7 @@ social:
 - https://www.facebook.com/DiePARTEISegeberg/
 - https://m.me/DiePARTEISegeberg
 - https://www.instagram.com/die_partei_segeberg/
+- https://twitter.com/diePARTEI_SE
 submenu:
 - name: Köpfe
   url: /se/koepfe/
