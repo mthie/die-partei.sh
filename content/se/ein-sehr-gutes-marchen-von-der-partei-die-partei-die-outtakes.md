@@ -1,6 +1,6 @@
 ---
 title: Ein sehr gutes Märchen von der Partei DIE PARTEI - Die Outtakes
-date: 2021-11-14T23:35:36+0100
+date: 2021-06-07T23:38:00+0200
 draft: true
 tags: []
 categories: []
