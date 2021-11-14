@@ -10,3 +10,4 @@ recentfrom: ""
 ---
 Du vermisst die tägliche Märchenstunde? Zum Trost gibt es hier ein paar Outtakes:
 
+{{< gallery dir="se/ein-sehr-gutes-marchen-von-der-partei-die-partei-die-outtakes/" caption-position="none" hover-effect="none" item-height="25%" />}}
