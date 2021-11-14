@@ -1,5 +1,5 @@
 ---
-title: Die PARTEI – Kreisverband Segeberg
+title: Kontakt
 social:
 - https://www.facebook.com/DiePARTEISegeberg/
 - https://m.me/DiePARTEISegeberg
@@ -14,6 +14,7 @@ submenu:
   url: /se/kontakt/
 ---
 
-# Herzlich willkommen bei der Partei Die PARTEI &ndash; Kreisverband Segeberg!
+### Wir sind erreichbar per
 
-![Kreisverband Segeberg](/se/header.jpg "Kreisverband Segeberg")
+E-Mail: [segeberg@die-partei.sh](mailto:segeberg@die-partei.sh)  
+Telefon: 0152/07517179

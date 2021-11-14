@@ -1,5 +1,5 @@
 ---
-title: Die PARTEI – Kreisverband Segeberg
+title: Landtagswahl 2022
 social:
 - https://www.facebook.com/DiePARTEISegeberg/
 - https://m.me/DiePARTEISegeberg
@@ -14,6 +14,9 @@ submenu:
   url: /se/kontakt/
 ---
 
-# Herzlich willkommen bei der Partei Die PARTEI &ndash; Kreisverband Segeberg!
+### Unsere DirektkandidatX zur Landtagswahl 2022
 
-![Kreisverband Segeberg](/se/header.jpg "Kreisverband Segeberg")
+Wahlkreis 25 (Segeberg West): Beate Schreiber (Kanzlerkandidatin BTW 21)  
+Wahlkreis 26 (Segeberg Ost): David Höftmann  
+Wahlkreis 27 (Norderstedt): Markus Richter
+
