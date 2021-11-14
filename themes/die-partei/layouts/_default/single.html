@@ -62,8 +62,18 @@
 <h1>{{ .Title }}</h1>
 {{ end }}
 
-{{ if .Page.Params.submenu }}
+{{ if .Page.Params.social }}
 <hr>
+{{ partial "social" . }}
+{{ if not .Page.Params.submenu }}
+<hr>
+{{ end }}
+{{ end }}
+
+{{ if .Page.Params.submenu }}
+{{ if not .Page.Params.social }}
+<hr>
+{{ end }}
 {{ partial "submenu" . }}
 <hr>
 {{ end }}
