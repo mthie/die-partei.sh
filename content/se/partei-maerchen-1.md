@@ -7,7 +7,6 @@ submenu: []
 social: []
 recentfrom: ""
 ---
-
 Es folgt ein sehr gutes Märchen von der Partei DIE PARTEI:
 
 Teil 1
