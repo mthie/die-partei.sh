@@ -7,6 +7,8 @@ submenu:
   url: /pi/programm/
 - name: Köpfe
   url: /pi/koepfe/
+- name: Kontakt
+  url: /pi/kontakt/
 - name: Geschichte
   url: /pi/geschichte/
 social:
@@ -15,6 +17,7 @@ social:
 - https://www.instagram.com/thereal.parteipinneberg/
 - https://m.me/dieparteikp
 - https://die-partei.net/pinneberg/
+- mailto:pinneberg@die-partei.sh
 ---
 # Herzlich willkommen bei der Partei Die PARTEI – Kreisverband Pinneberg!
 
