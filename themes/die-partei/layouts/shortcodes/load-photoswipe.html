@@ -1,6 +1,7 @@
 <!-- prevent this shortcode from being loaded more than once per page -->
-{{ if not (.Scratch.Get "photoswipeloaded") }}
-  {{ .Scratch.Set "photoswipeloaded" 1 }}
+{{ .Scratch.Set "photoswipefullyloaded" 1 }}
+{{ if not (.Scratch.Get "photoswipefullyloaded") }}
+  {{ .Scratch.Set "photoswipefullyloaded" 1 }}
 
 <!-- Photoswipe css/js libraries -->
 <link rel="stylesheet" href="{{ $.Site.BaseURL }}css/photoswipe.min.css">
