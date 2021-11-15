@@ -1,5 +1,5 @@
 ---
-title: Geschichte
+title: Kontakt
 submenu:
 - name: Programm
   url: /pi/programm/
@@ -18,13 +18,6 @@ social:
 - mailto:pinneberg@die-partei.sh
 ---
 
-Die PARTEI Pinneberg wurde am 3. Juni 2017 erstmalig in der Stadt Pinneberg gegründet.
+### Wir sind erreichbar per
 
-Seitdem nahm sie an folgenden Wahlen teil und erreichte folgende Ergebnisse:
-
-* **Bundestagswahl 2017:**  
-2.200 WählerInnen ergaben 1,2%
-* **Europawahl 2019:**  
-3.258 WählerInnen ergaben 2,2%
-* **Bundestagswahl 2021:**  
-2.352 WählerInnen ergaben 1,2%
+E-Mail: [pinneberg@die-partei.sh](mailto:pinneberg@die-partei.sh)  
