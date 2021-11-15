@@ -18,14 +18,14 @@ submenu:
 ### Unser aktueller Vorstand:
 
 1\. Vorsitzende: Alexandra Richter  
-2\. Vorsitzender: David Höftmann  
+2\. Vorsitzender: David Hoeftmann  
 1\. Schatzmeister: Michael Nestler  
 2\. Schatzmeisterin: Beate Schreiber
 
 ### DirektkandidatX zur Landtagswahl 2022
 
 Wahlkreis 25 (Segeberg West): Beate Schreiber (Kanzlerkandidatin BTW 21)  
-Wahlkreis 26 (Segeberg Ost): David Höftmann  
+Wahlkreis 26 (Segeberg Ost): David Hoeftmann  
 Wahlkreis 27 (Norderstedt): Markus Richter
 
 ### PARTEIberater
