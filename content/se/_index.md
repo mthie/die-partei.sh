@@ -17,4 +17,4 @@ submenu:
 
 # Herzlich willkommen bei der Partei Die PARTEI &ndash; Kreisverband Segeberg!
 
-![Kreisverband Segeberg](/se/header.jpg "Kreisverband Segeberg")
+![Kreisverband Segeberg](/se/header_211115.jpg "Kreisverband Segeberg")
