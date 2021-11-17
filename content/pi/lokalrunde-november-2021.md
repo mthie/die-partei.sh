@@ -10,7 +10,7 @@ social: []
 recentfrom: ""
 ---
 Liebe PARTEI-Freunde,  
-am 25.11. findet die nächste Lokalrunde eurer Lieblingspartei Die PARTEI statt.
+am 25.11. um 19 Uhr findet die nächste Lokalrunde eurer Lieblingspartei Die PARTEI statt.
 
 ### Wo?
 
