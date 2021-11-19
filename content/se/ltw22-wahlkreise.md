@@ -15,7 +15,9 @@ submenu:
   url: /se/kontakt/
 ---
 
-### 25 Segeberg-West vom Kreis Segeberg:
+## 25 Segeberg-West
+
+### vom Kreis Segeberg:
 
 Stadt Bad Bramstedt  
 Stadt Kaltenkirchen  
@@ -23,7 +25,7 @@ amtsfreie Gemeinde Ellerau
 amtsfreie Gemeinde Henstedt-Ulzburg  
 Amt Kaltenkirchen-Land
 
-#### vom Amt Brad Bramstedt-Land:  
+### vom Amt Brad Bramstedt-Land:  
 
 Gemeinde Armstedt  
 Gemeinde Bimöhlen  
@@ -39,14 +41,17 @@ Gemeinde Mönkloh
 Gemeinde Weddelbrook  
 Gemeinde Wiemersdorf  
 
-#### vom Amt Kisdorf:
+### vom Amt Kisdorf:
 
 Gemeinde Hüttblek  
 Gemeinde Sievershütten  
 Gemeinde Struvenhütten  
 Gemeinde Stuvenborn  
 
-### 26 Segeberg-Ost Vom Kreis Segeberg:
+--------
+
+## 26 Segeberg-Ost
+### Vom Kreis Segeberg:
 
 Stadt Bad Segeberg  
 Stadt Wahlstedt  
@@ -54,14 +59,14 @@ Amt Bornhöved
 Amt Leezen  
 Amt Trave-Land  
 
-#### vom Amt Boostedt-Rickling:  
+### vom Amt Boostedt-Rickling:  
 Gemeinde Daldorf  
 Gemeinde Groß Kummerfeld  
 Gemeinde Heidmühlen  
 Gemeinde Latendorf  
 Gemeinde Rickling  
 
-#### vom Amt Itzstedt:  
+### vom Amt Itzstedt:  
 Gemeinde Itzstedt  
 Gemeinde Kayhude  
 Gemeinde Nahe  
@@ -69,20 +74,23 @@ Gemeinde Oering
 Gemeinde Seth  
 Gemeinde Sülfeld
 
-#### vom Amt Bad Bramstedt-Land:
+### vom Amt Bad Bramstedt-Land:
 Gemeinde Großenaspe
 
-### 27 Norderstedt Vom Kreis Segeberg:
+--------
+
+## 27 Norderstedt
+### Vom Kreis Segeberg:
 
 Stadt Norderstedt
 
-#### vom Amt Kisdorf:
+### vom Amt Kisdorf:
 Gemeinde Kattendorf  
 Gemeinde Kisdorf  
 Gemeinde Oersdorf  
 Gemeinde Wakendorf II  
 Gemeinde Winsen  
 
-#### vom Kreis Stormarn:
+### vom Kreis Stormarn:
 Gemeinde Tangstedt (Amt Itzstedt)
 
