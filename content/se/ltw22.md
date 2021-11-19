@@ -33,6 +33,9 @@ Unser Dank sei Dir gewiss!
 
 Deine sehr gute Partei Die PARTEI Schleswig-Holstein
 
+Die Unterstützungsformulare und eine genaue Aufschlüsselung der Wahlkreise findest du auf unserer [Wahlkreis-Seite](../ltw22-wahlkreise) vorbei.
+
+Hast du weitere Fragen zu den Formularen, schau gerne in unsere [FAQ](../ltw22-faq/).
 
 ### Unsere DirektkandidatX zur Landtagswahl 2022
 
@@ -40,4 +43,3 @@ Wahlkreis 25 (Segeberg West): Beate Schreiber (Kanzlerkandidatin BTW 21)
 Wahlkreis 26 (Segeberg Ost): David Hoeftmann  
 Wahlkreis 27 (Norderstedt): Markus Richter
 
-Solltest du dich jetzt fragen, in welchem Wahlkreis du für unsere KandidatX dein Kreuz machen kannst, schau gern auf der [Wahlkreis-Seite](../ltw22-wahlkreise) vorbei.

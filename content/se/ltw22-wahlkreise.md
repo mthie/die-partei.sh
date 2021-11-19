@@ -48,6 +48,8 @@ Gemeinde Sievershütten
 Gemeinde Struvenhütten  
 Gemeinde Stuvenborn  
 
+Zum Unterstützungsformular des Wahlkreises 25: [PDF-Download](../ltw22/LTW22-Die_PARTEI_25.pdf)
+
 --------
 
 ## 26 Segeberg-Ost
@@ -77,6 +79,8 @@ Gemeinde Sülfeld
 ### vom Amt Bad Bramstedt-Land:
 Gemeinde Großenaspe
 
+Zum Unterstützungsformular des Wahlkreises 26: [PDF-Download](../ltw22/LTW22-Die_PARTEI_26.pdf)
+
 --------
 
 ## 27 Norderstedt
@@ -94,3 +98,4 @@ Gemeinde Winsen
 ### vom Kreis Stormarn:
 Gemeinde Tangstedt (Amt Itzstedt)
 
+Zum Unterstützungsformular des Wahlkreises 27: [PDF-Download](../ltw22/LTW22-Die_PARTEI_27.pdf)
