@@ -1,0 +1,11 @@
+{
+  "type": "object",
+  "properties": [
+    {
+      "id": "social",
+      "type": "array",
+      "label": "Socials",
+      "placeholder": "Social URL hinzufügen..."
+    }
+  ]
+}
