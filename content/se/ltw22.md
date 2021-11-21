@@ -40,7 +40,6 @@ Hierfür melde Dich einfach bei uns, mobil unter 0152/07517179 oder per Mail an 
 Du hast die Formulare selbst ausgedruckt, dann sende sie uns bitte vollständig und leserlich ausgefüllt und unterschrieben an uns:
 
 Die PARTEI Schleswig-Holstein  
-Kreisverband Segeberg  
 Postfach 1404  
 23784 Bad Segeberg
 
