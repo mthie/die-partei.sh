@@ -1,5 +1,5 @@
 ---
-title: Landtagswahl 2022 - unsere Kandidaten stehen fest
+title: Eure DirektkandidatX zur Landtagswahl 2022 stehen fest
 date: 2021-11-14T21:27:00+0100
 tags: []
 categories: []
