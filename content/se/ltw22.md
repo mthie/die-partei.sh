@@ -20,16 +20,17 @@ Liebe GenossX,
 
 Die Landtagswahl steht vor der Tür und damit (mal wieder) die Chance zur Machtübernahme unserer sehr guten Partei „Die PARTEI“.
 
-Dafür kam in grauer Vielfalt Dein Kreisverband Segeberg zusammen, um für die nahende Landtagswahl die Parteienlandschaft durch Direktkandidat\*innen unsererseits zu bereichern. Ein großes HURRA für unsere jeweils einstimmig gewählten Hoffnungsträger:
+Dafür kam in grauer Vielfalt Dein Kreisverband Segeberg zusammen, um für die nahende Landtagswahl die Parteienlandschaft durch DirektkandidatX unsererseits zu bereichern. Ein großes HURRA für unsere jeweils einstimmig gewählten Hoffnungsträger:
 
 Segeberg-West (Wahlkreis 25): Beate Schreiber  
 Segeberg-Ost (Wahlkreis 26): David Hoeftmann  
 Norderstedt (Wahlkreis 27): Markus Richter
 
-Damit unsere sehr guten DirektkandidatX kommendes Jahr für uns in den Landtag einziehen können, werden 100 Unterstützungsunterschriften pro Direktkandidat\*in aus dem jeweiligen Wahlkreis benötigt.  
+Damit unsere sehr guten DirektkandidatX kommendes Jahr für uns in den Landtag einziehen können, werden 100 Unterstützungsunterschriften pro DirektkandidatX aus dem jeweiligen Wahlkreis benötigt.
 Damit wir in diesem Jahr (endlich) mit mindestens 100 % + X in das Parlament einziehen können, brauchen wir nun Deine Zeit und Unterschriften.  
+
 Wenn Du mindestens 16 Jahre alt und im Kreis Segeberg mit erstem Wohnsitz gemeldet bist, kannst Du für Deine\*n DirektkandidatX aus Deinem Wahlkreis unterschreiben. Bitte beachte, dass Du nur für eine\*n DirektkandidatX in dem Wahlkreis, in dem du gemeldet bist, unterzeichnen darfst.  
-Für die Landesliste ist es ausreichend wenn Du in SH gemeldet bist.  
+Für die Landesliste ist es ausreichend wenn Du in SH gemeldet bist.
 
 Die Formulare für die Unterstützungsunterschriften sowie die genaue Aufschlüsselung der dazugehörigen Wahlkreise findest auf unserer [Wahlkreis-Seite](../ltw22-wahlkreise).  
 Für unsere Landesliste sind sportliche 1.000 Unterstützungsunterschriften in Schleswig-Holstein erforderlich. Das Formular dafür kannst du Dir [hier als PDF](../ltw22/uu_ltw22_die-partei.pdf) herunterladen.  
@@ -48,8 +49,7 @@ Da es coronabedingt zur Zeit schwierig ist, Live-Aktionen zu starten, um Untersc
 
 Bei Fragen oder interesse an unseren sehr guten virtuellen Stammtischen, gerne melden.
 
-Nähere spannende Infos
-zu unseren Kandidat\*innen, kannst Du  demnächst, hier auf dieser Seite entdecken.
+Nähere spannende Infos zu unseren KandidatX, kannst Du demnächst, hier auf dieser Seite entdecken.
 
 Euer Vorstandsteam  
 Die PARTEI, KV Segeberg
