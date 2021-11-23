@@ -5,9 +5,10 @@ social:
 - https://m.me/DiePARTEISegeberg
 - https://www.instagram.com/die_partei_segeberg/
 - https://twitter.com/diePARTEI_SE
+- https://discord.gg/Yqm3gMkk7j
 - mailto:segeberg@die-partei.sh
 submenu:
-- name: Landtagswahl 2022
+- name: Info zur Landtagswahl 2022
   url: /se/ltw22/
 - name: Köpfe / Unser Team
   url: /se/koepfe/
