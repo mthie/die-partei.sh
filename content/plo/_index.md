@@ -18,3 +18,5 @@ Wir möchten Kreuzfahrttourismus auch in unserer Gegend attraktiv machen, wesweg
 Außerdem soll in unserem Brasilien der Regenwald wieder aufgeforstet werden, um den stetigen Papierverbrauch unserer Kreisverwaltung zu kompensieren.
 
 Wir haben noch mehr sehr gute Ideen. Folge uns auf SocialMedia oder werde halt ganz einfach Mitglied...
+
+------
