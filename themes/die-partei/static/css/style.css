@@ -28,6 +28,10 @@ body {
   width: 100%;
 }
 
+#emblem {
+  max-height: 90%;
+}
+
 #main {
   margin-top: 2em;
 }

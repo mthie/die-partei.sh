@@ -1,8 +1,17 @@
 <div class="container">
-  <div class="col-lg-6 col-md-12">
-    <div id="logo" title="Die PARTEI" alt="Die PARTEI">
-      Die PARTEI
+  <div class="row">
+    <div class="col-lg-6 col-md-12">
+      <div id="logo" title="Die PARTEI" alt="Die PARTEI">
+        Die PARTEI
+      </div>
+      <div style="background-image: url('{{ $.Site.BaseURL }}{{ if .Section }}logos/{{ .Section }}{{ else }}lv-sh{{end}}.svg');" id="vlogo"></div>
     </div>
-    <div style="background-image: url('{{ $.Site.BaseURL }}{{ if .Section }}logos/{{ .Section }}{{ else }}lv-sh{{end}}.svg');" id="vlogo"></div>
+    {{ if .Section }}
+      {{ if fileExists (printf "static/%s/wappen.png" .Section )}}
+      <div class="d-none d-lg-block col-lg-6">
+        <img src="{{ $.Site.BaseURL }}{{ .Section }}/wappen.png" alt="Wappen" title="Wappen" id="emblem" class="rounded float-right">
+      </div>
+      {{ end }}
+    {{ end }}
   </div>
 </div>
