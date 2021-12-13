@@ -4,6 +4,7 @@ social:
 - https://www.facebook.com/DiePARTEIPloen
 - https://m.me/dieparteiploen
 - https://www.instagram.com/kvploen_diepartei/
+- mailto:ploen@die-partei.sh
 ---
 
 # Herzlich willkommen bei der Partei Die PARTEI &ndash; Kreisverband Plön!
