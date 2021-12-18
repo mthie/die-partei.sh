@@ -1,12 +1,23 @@
 {{ if .Title }}
-<h1>
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-</h1>
-<hr>
+  <h1>
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </h1>
+  <hr>
 
+  {{ if gt .PublishDate.Unix 0 }}
+  <small class="publishDate">{{ .PublishDate.Format "02.01.2006 - 15:04" }}</small>
+  {{ end }}
 {{ end }}
-{{ if gt .PublishDate.Unix 0 }}
-<small class="publishDate">{{ .PublishDate.Format "02.01.2006 - 15:04" }}</small>
+
+{{ if .Page.Params.social_type }}
+  {{ if eq .Page.Params.social_type "twitter" }}
+    <i class="fab fa-twitter"></i> <small class="publishDate">{{ .PublishDate.Format "02.01.2006 - 15:04" }}</small>
+  {{ end }}
+  {{ if eq .Page.Params.social_type "facebook" }}
+    {{ if gt .PublishDate.Unix 0 }}
+    <i class="fab fa-facebook"></i> <small class="publishDate">{{ .PublishDate.Format "02.01.2006 - 15:04" }}</small>
+    {{ end }}
+  {{ end }}
 {{ end }}
 
 {{ .Content }}
