@@ -32,7 +32,7 @@ Politkommissar: Yorik Hansen
 
 ### Spendenkonto
 
-Die PARTEI Schleswig-Holstein
+Die PARTEI Schleswig-Holstein  
 IBAN: DE17 4401 0046 0397 5414 65
 
 *Spendenquittungen können auf Wunsch ausgestellt werden. Bei Spenden und Beiträgen bis 200 € reicht jedoch in der Regel auch der Überweisungsbeleg bzw. der Kontoauszug als Nachweis.*
