@@ -2,10 +2,41 @@
   "type": "object",
   "properties": [
     {
+      "id": "submenu",
+      "type": "array",
+      "label": "Untermenü",
+      "items": {
+        "id": "entry",
+        "type": "object",
+        "label": "Eintrag",
+        "placeholder": "Eintrag hinzufügen...",
+        "properties": [
+          {
+            "id": "name",
+            "label": "Name",
+            "placeholder": "Menüpunktname",
+            "type": "string"
+          },
+          {
+            "id": "url",
+            "label": "URL",
+            "placeholder": "/verband/seite/",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
       "id": "social",
       "type": "array",
       "label": "Socials",
-      "placeholder": "Social URL hinzufügen..."
+      "placeholder": "Social URL hinzufügen...",
+      "items": {
+        "id": "social",
+        "type": "string",
+        "label": "Social URL",
+        "placeholder": "Social hinzufügen..." 
+      }
     }
   ]
 }
