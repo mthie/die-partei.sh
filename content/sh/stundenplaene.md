@@ -13,7 +13,7 @@ Pünktlich zu den Zeugnissen, haben wir euch fürs nächste Halbjahr Stundenplä
 
 ## Lehrkräfte sind auch nur Edelhartzer
 
-![Lehrkräfte sind auch nur Edelhartzer](https://die-partei.sh/sh/stundenplaene/die-partei-stundenplan_edelharzer.svg)
+![Lehrkräfte sind auch nur Edelhartzer](https://die-partei.sh/sh/stundenplaene/die-partei-stundenplan_edelhartzer.svg)
 
 **Download:** [Din A4](https://die-partei.sh/sh/stundenplaene/die-partei-stundenplan_edelhartzer_A4.pdf) [Din A5](https://die-partei.sh/sh/stundenplaene/die-partei-stundenplan_edelhartzer_A5.pdf)
 
