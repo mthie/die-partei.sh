@@ -1,6 +1,8 @@
 ---
 title: Geschichte
 submenu:
+- name: Infos zur Landtagswahl 2022
+  url: /pi/ltw22/
 - name: Programm
   url: /pi/programm/
 - name: Köpfe
