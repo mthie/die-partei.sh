@@ -11,6 +11,12 @@ Die PARTEI Schleswig Holstein tritt nicht nur mit einer [Landesliste](https://di
 
 Das sind unsere Direktkandidat\*innen:
 
+<style>
+table th:first-of-type {
+    min-width: 300px;
+}
+</style>
+
 | Wahlkreis                                                    | Kandidat*in          |
 | ------------------------------------------------------------ | -------------------- |
 | 12 - [Kiel-Nord](https://de.wikipedia.org/wiki/Landtagswahlkreis_Kiel-Nord)     | [Yana Käding](https://die-partei.sh/ki/ltw22/Anlage-7-LWK12.pdf) |

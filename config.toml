@@ -14,3 +14,8 @@ node = "/:filename"
 [params]
 author = "Die PARTEI - Landesverband Schleswig-Holstein"
 avatar = "square.jpg"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
