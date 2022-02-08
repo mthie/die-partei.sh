@@ -75,14 +75,17 @@ Gut, dass bald Landtagswahl ist in der schlechtesten Diktatur aller Zeiten.
 Liebe Grüße: Ihre sehr gute Partei Die PARTEI und ihr Direktkandidat für den Wahlkreis 16: Ich!
 
 ## Fragen vom Veranstalter:
-**Wie stehst Du zu einer Impfpflicht?**  
+### Wie stehst Du zu einer Impfpflicht?
+
 Wir als Die PARTEI fordern keine Impfpflicht. Wir legalisieren Cannabis für alle Geimpften und führen das Tempolimit 130 nur für Ungeimpfte ein. Danach hat sich das in einer Woche erledigt und so komische offene Fragen wie Umsetzung oder Impfregister sind dann auch überflüssig...
 
-**Siehst Du unsere Gesellschaft als gespalten?**  
+### Siehst Du unsere Gesellschaft als gespalten?
+
 Ja, die Gesellschaft ist gespalten. Es gibt sowohl Menschen, die Die PARTEI wählen, als auch Menschen, die (leider) nicht Die PARTEI wählen. Diese Spaltung ist ein großes Problem (für Die PARTEI) und sollte daher behoben werden.  
 Wenn's um Corona geht: Nö! Da sind nur ein paar Dullies, die jetzt nicht     mehr nach Paraguay auswandern können und von Spaltung faseln.
 
-**Wäre heute Abend die Gutegesetzefee auf dem Marktplatz, welche drei Wünsche hättest du als Landespolitikier?**
+### Wäre heute Abend die Gutegesetzefee auf dem Marktplatz, welche drei Wünsche hättest du als Landespolitikier?
+
 1. Jeder Vertrag ist verbindlich und wenn Menschen sich daran nicht halten, bekommen sie Strafen.  
 Koalitiosnverträge sollten genauso verbindlich sein, damit sich keine Regierungen mit schicken Namen wie „Jamaika“ etablieren können und tolle Versprechungen wie bedingungsloses Grundeinkommen machen am Ende nichts davon einhalten. Voll unseriös und so...
 2. Eine Wiederaufforstung des Regenwaldes in Brasilien (Gemeinde Schönberg), um den maßlosen Papierverbrauch unserer unterdigitalisierten Verwaltungen zu kompensieren.
