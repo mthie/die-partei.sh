@@ -7,7 +7,6 @@ submenu: []
 social: []
 recentfrom: ""
 ---
-
 *Pressemitteilung zu den Landtagswahlen SH 2022, 17.03.2022, Die PARTEI Kreisverband Plön*
 
 Vielen Menschen ist bekannt, dass eine Partei, um bei einer Landtags- oder Bundestagswahl in ein Parlament einzuziehen, mit mindestens 5% der Wähler:innenstimmen gewählt werden muss, um nach der Wahl Mandate in dem gewählten Parlament besetzen zu können.  
