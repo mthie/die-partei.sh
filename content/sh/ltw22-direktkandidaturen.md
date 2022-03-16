@@ -7,7 +7,7 @@ submenu: []
 social: []
 recentfrom: ""
 ---
-Die PARTEI Schleswig Holstein tritt nicht nur mit einer [Landesliste](https://die-partei.sh/sh/landesliste_ltw22/) zur Landtagswahl 2022 an. Sie hat auch Direktkandidat\*innen.
+Die PARTEI Schleswig Holstein tritt nicht nur mit einer [Landesliste](https://die-partei.sh/sh/ltw22-landesliste/) zur Landtagswahl 2022 an. Sie hat auch Direktkandidat\*innen.
 
 Das sind unsere Direktkandidat\*innen:
 
@@ -33,4 +33,4 @@ table th:first-of-type {
 
 
 
-Wie du unsere großartigen Kandidat*innen unterstützen kannst erfährst du [hier](https://die-partei.sh/sh/unterschriften_ltw22/)
+Wie du unsere großartigen Kandidat*innen unterstützen kannst erfährst du [hier](https://die-partei.sh/sh/ltw22-unterschriften/)

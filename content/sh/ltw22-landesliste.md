@@ -40,4 +40,4 @@ Wir präsentieren unsere wunderbare Landesliste:
 29. Steven Balkowski
 30. Ali Alam
 
-Wie du unsere großartigen Kandidat*innen unterstützen kannst erfährst du [hier](https://die-partei.sh/sh/unterschriften_ltw22/)
+Wie du unsere großartigen Kandidat*innen unterstützen kannst erfährst du [hier](https://die-partei.sh/sh/ltw22-unterschriften/)

@@ -7,6 +7,9 @@ submenu: []
 social: []
 recentfrom: ""
 ---
+
+**UPDATE: Es ist geschafft! Wir haben es durch euch auf die [Landesliste](/sh/ltw22-landesliste) geschafft!**
+
 Liebe PARTEI-Freunde in Schleswig-Holstein,
 
 es ist mal wieder soweit!
