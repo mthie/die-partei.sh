@@ -1,6 +1,6 @@
 ---
 title: Das Wahlprogramm zur Landtagswahl der PARTEI Schleswig-Holstein
-date: 2022-03-18T10:00:00+0200
+date: 2022-03-16T10:00:00+0200
 tags: []
 categories: []
 submenu: []
