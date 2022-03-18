@@ -1,6 +1,6 @@
 ---
 title: Wohlwollen und Demokratie
-date: 2022-03-18T20:15:00+0100
+date: 2022-03-18T20:05:00+0100
 tags: []
 categories: []
 submenu: []
