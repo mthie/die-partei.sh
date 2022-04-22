@@ -245,3 +245,7 @@ body {
     font-weight: bold;
     font-style: normal;
 }
+
+table {
+  margin-bottom: 1rem;
+}
