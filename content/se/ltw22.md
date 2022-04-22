@@ -20,7 +20,7 @@ Liebe GenossX,
 
 Die Landtagswahl steht vor der Tür und damit (mal wieder) die Chance zur Machtübernahme unserer sehr guten Partei „Die PARTEI“.
 
-##Das Wahlprogramm zur Landtagswahl der PARTEI Schleswig-Holstein
+## Das Wahlprogramm zur Landtagswahl der PARTEI Schleswig-Holstein
 
 *"Wir fordern halt irgendwas."*
 
