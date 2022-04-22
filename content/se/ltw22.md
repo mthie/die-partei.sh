@@ -20,6 +20,8 @@ Liebe GenossX,
 
 Die Landtagswahl steht vor der Tür und damit (mal wieder) die Chance zur Machtübernahme unserer sehr guten Partei „Die PARTEI“.
 
+------
+
 ## Das Wahlprogramm zur Landtagswahl der PARTEI Schleswig-Holstein
 
 *"Wir fordern halt irgendwas."*
@@ -91,6 +93,8 @@ Nach der versprochenen Legalisierung von Cannabis widmen wir uns als Turbo-PARTE
 
 ***Achter Mai, Nazifrei
 Wenn wir einziehen, befreien wir den Landtag von der AfD!***
+
+------
 
 Bei Fragen oder Interesse an unseren sehr guten virtuellen Stammtischen, gerne melden.
 
