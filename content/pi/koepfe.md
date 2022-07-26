@@ -25,5 +25,5 @@ recentfrom: ""
 ### Unser aktueller Vorstand:
 
 1\. Kreisvorstand: Kay Drews  
-2\. Kreisvorstand: Nils Straub  
+2\. Kreisvorstand: Mona T.  
 Schatzmeister: Adrian György
