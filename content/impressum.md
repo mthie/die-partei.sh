@@ -22,11 +22,13 @@ E-Mail: mail@die-partei.sh
 
 1\. Vorsitzender: Florian Wrobel  
 2\. Vorsitzende: Simone Kaletsch  
-Schatzmeister: Alexander Schacht  
+Schatzmeister: Yana Käding  
 Generalsekretär: Kevin Kazmierczak  
-Politische Geschäftsführung: Yana Käding  
+Politische Geschäftsführung: Alexander Schacht  
 Zentralinspektor: Jens Wemhöner  
-Politkommissar: Yorik Hansen
+Politkommissar: Yorik Hansen  
+Propagandalf: Dennis Boysen
+Stellvertretender Schatzmeister: Jannis Langmaack
 
 **Gründung:** 23. April 2009 in Uelvesbüll
 
