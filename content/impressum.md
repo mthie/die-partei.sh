@@ -27,7 +27,7 @@ Generalsekretär: Kevin Kazmierczak
 Politische Geschäftsführung: Alexander Schacht  
 Zentralinspektor: Jens Wemhöner  
 Politkommissar: Yorik Hansen  
-Propagandalf: Dennis Boysen
+Propagandalf: Dennis Boysen  
 Stellvertretender Schatzmeister: Jannis Langmaack
 
 **Gründung:** 23. April 2009 in Uelvesbüll
