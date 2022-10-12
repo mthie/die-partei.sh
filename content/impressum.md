@@ -23,7 +23,7 @@ E-Mail: mail@die-partei.sh
 1\. Vorsitzender: Florian Wrobel  
 2\. Vorsitzende: Simone Kaletsch  
 Schatzmeisterin: Yana Käding  
-Generalsekretär: Kevin Kazmierczak  
+Generalsekretär: Kevin Heiler  
 Politischer Geschäftsführer: Alexander Schacht  
 Zentralinspektor: Jens Wemhöner  
 Politkommissar: Yorik Hansen  
