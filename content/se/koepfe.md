@@ -5,7 +5,6 @@ social:
 - https://m.me/DiePARTEISegeberg
 - https://www.instagram.com/die_partei_segeberg/
 - https://twitter.com/diePARTEI_SE
-- https://discord.gg/Yqm3gMkk7j
 - mailto:segeberg@die-partei.sh
 submenu:
 - name: Info zur Landtagswahl 2022
@@ -18,19 +17,18 @@ submenu:
 
 ### Unser aktueller Vorstand:
 
+![Die Köpfe hinter dem Kreisverband Segeberg](/se/koepfe.jpg "Die Köpfe hinter dem Kreisverband Segeberg")
+
 |                      |                               |
 |----------------------|-------------------------------|
 | 1\. Vorsitzende:     | Alexandra Richter             |
-| 2\. Vorsitzender:    | David Hoeftmann               |
-|                      | Niels Reimers (kommissarisch) |
-| 1\. Schatzmeister:   | Michael Nestler               |
-| 2\. Schatzmeisterin: | Beate Schreiber               |
+| 2\. Vorsitzender:    | Niels Reimers                 |
+| Schatzmeisterin:     | Beate Schreiber               |
 |                      |                               |
 
+### BeraterliXe:
 
-### PARTEIberater
-
-Beraterin för Klogschietergedöns: Simone Kaletsch  
-Berater für Erdkrustengestaltung, Waldbegrünung und Gerstensaft Soumeliere: Markus Richter  
-
-Fotos und weitere Berater werden nachgereicht
+* Markus Richter für Erdkrustengestaltung, Waldbegrünung, Gerstensaft Someliere, Spaltungsbeauftragter und Amtsanhäufungsexperte
+* Sascha: Radikalisierungsbeauftragter
+* Kersten Hansen: Schwermetallbeauftragter 
+* Arian: in-, Alt- und Ausländerbeauftragter
