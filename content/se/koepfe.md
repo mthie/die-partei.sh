@@ -7,6 +7,8 @@ social:
 - https://twitter.com/diePARTEI_SE
 - mailto:segeberg@die-partei.sh
 submenu:
+- name: Infos zur Kommunalwahl 2023
+  url: /se/kommunalwahl23/
 - name: Info zur Landtagswahl 2022
   url: /se/ltw22/
 - name: Köpfe / Unser Team
