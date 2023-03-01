@@ -9,6 +9,6 @@ submenu:
 
 1\. Vorsitzender: Kevin Kazmierczak
 
-2\. Vorsitzender: Jannis Haesihus
+2\. Vorsitzender: ?
 
 Schatzmeister: Jonas Niklesz
