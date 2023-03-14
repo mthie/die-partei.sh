@@ -5,6 +5,9 @@ social:
 - https://m.me/dieparteiploen
 - https://www.instagram.com/kvploen_diepartei/
 - mailto:ploen@die-partei.sh
+submenu:
+- name: Wahlprogramm zur Kommunalwahl 2023
+  url: /plo/kw23-programm.pdf
 ---
 
 # Herzlich willkommen bei der Partei Die PARTEI &ndash; Kreisverband Plön!
