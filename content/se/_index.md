@@ -9,8 +9,6 @@ social:
 submenu:
 - name: Infos zur Kommunalwahl 2023
   url: /se/kommunalwahl23/
-- name: Infos zur Landtagswahl 2022
-  url: /se/ltw22/
 - name: Köpfe / Unser Team
   url: /se/koepfe/
 - name: Kontakt
