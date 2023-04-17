@@ -5,8 +5,8 @@ categories: []
 submenu:
 - name: Köpfe
   url: /ki/koepfe/
-- name: Kommunarwal-Programm 2018
-  url: /ki/kommunarwal-programm/
+- name: Kommunalwahlprogramm 2023
+  url: /ki/kommunalwahl-2023/
 social: []
 recentfrom: ""
 ---
