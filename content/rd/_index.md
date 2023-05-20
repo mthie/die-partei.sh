@@ -4,7 +4,6 @@ social:
 - https://www.facebook.com/DiePARTEIRD
 - https://www.instagram.com/diepartei_rd_eck/
 - https://m.me/DiePARTEIRD
-- http://www.die-partei-rd-eck.de
 submenu:
 - name: Köpfe
   url: /rd/koepfe/
