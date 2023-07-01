@@ -1,5 +1,5 @@
 ---
-title: Kommunalwahl 2023: Danke
+title: "Kommunalwahl 2023: Danke"
 date: 2023-06-26T16:00:00+0200
 ---
 
