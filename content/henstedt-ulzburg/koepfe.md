@@ -10,8 +10,8 @@ recentfrom: ""
 ---
 ### Unser aktueller Vorstand:
 
-1\. Vorsitzender: 
+1\. Vorsitzende: Beate Schreiber
 
-2\. Vorsitzender: 
+2\. Vorsitzender: Sascha Rönsch
 
-Schatzmeister: 
+Schatzmeisterin: Rebecca Harder

@@ -9,4 +9,4 @@ submenu:
 
 # Herzlich willkommen bei der Partei Die PARTEI &ndash; Ortsverband Henstedt-Ulzburg!
 
-![Ortsverband Henstedt-Ulzburg](/henstedt-ulzburg/header.jpg "Ortsverband Henstedt-Ulzburg")
+![Ortsverband Henstedt-Ulzburg](/henstedt-ulzburg/header.png "Ortsverband Henstedt-Ulzburg")
