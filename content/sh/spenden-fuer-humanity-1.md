@@ -9,12 +9,12 @@ recentfrom: ""
 ---
 
 
-![Text im Bild: Seenotrettung retten! Eine Spendenkampange für das Rettungsschiff Humanity 1 (ehem. Forschungsschiff Poseidon) mit Heimathafen Kiel. Nur heute: Wir verdoppeln jede Spende! (aufgerundet, dank 1,7% Parteienfinanzierung). Die PARTEI. Darunter die Bankdaten der Spendenkampange und die Domain die-partei.de](https://die-partei.sh/sh/spenden-fuer-humanity/spenden-fuer-humanity-1_01.png)
+![Text im Bild: Seenotrettung retten! Eine Spendenkampange für das Rettungsschiff Humanity 1 (ehem. Forschungsschiff Poseidon) mit Heimathafen Kiel. Nur heute: Wir verdoppeln jede Spende! (aufgerundet, dank 1,7% Parteienfinanzierung). Die PARTEI. Darunter die Bankdaten der Spendenkampange und die Domain die-partei.de](https://die-partei.sh/sh/spenden-fuer-humanity-1/spenden-fuer-humanity-1_01.png)
 
 Es ist wieder soweit, Ihre Lieblingspartei kümmert sich um die Seenotrettung. Die PARTEI will mit Ihrer Hilfe (Geld) die [Humanity 1](https://united4rescue.org/de/die-schiffe/humanity-1/) retten. Nachdem die Stadt Kiel sich hinter der Kommunalaufsicht versteckt hat, startet Die PARTEI jetzt eine Spendenkampagne.
 
-**Kontoinhaber: `Die PARTEI Bundesverband`**
-**IBAN: `DE20 430 609 67 400 440 1600`**
+**Kontoinhaber: `Die PARTEI Bundesverband`**  
+**IBAN: `DE20 430 609 67 400 440 1600`**  
 **Verwendungszweck: `Werftkosten`**
 
 ## Wieso wir ran müssen
@@ -25,4 +25,4 @@ Die Grünen und auch die SPD wollten (natürlich für die Öffentlichkeit) diese
 Dieser Antrag folgte nur einem Beispiel aus anderen deutschen Kommunen in denen es in der Vergangenheit kein Problem darstellte, seiner Verpflichtung als "Sicherer Hafen" nachzukommen.
 Nachdem vor ein paar Wochen die Einschätzung der Kommunalaufsicht eingetrudelt ist, entschied Die PARTEI in Windeseile, was die Stadt nicht will, dass machen wir erst Recht.
 
-![Text im Bild: Jeder Euro zählt, um die Werftkosten der Humanity 1 zu übernehmen. Mit freundlicher, unfreiwilliger Unterstützung von SPD, Grüne, FDP, CDU, AfD, Bündis Sarah Wagenknecht. Nur heute: Wir verdoppeln jede Spende! (aufgerundet, dank 1,7% Parteienfinanzierung). Die PARTEI. Darunter die Bankdaten der Spendenkampange und die Domain die-partei.de](https://die-partei.sh/sh/spenden-fuer-humanity/spenden-fuer-humanity-1_02.png)
+![Text im Bild: Jeder Euro zählt, um die Werftkosten der Humanity 1 zu übernehmen. Mit freundlicher, unfreiwilliger Unterstützung von SPD, Grüne, FDP, CDU, AfD, Bündis Sarah Wagenknecht. Nur heute: Wir verdoppeln jede Spende! (aufgerundet, dank 1,7% Parteienfinanzierung). Die PARTEI. Darunter die Bankdaten der Spendenkampange und die Domain die-partei.de](https://die-partei.sh/sh/spenden-fuer-humanity-1/spenden-fuer-humanity-1_02.png)
