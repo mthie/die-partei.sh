@@ -21,13 +21,13 @@ E-Mail: mail@die-partei.sh
 ### Vorstand des Landesverbandes Schleswig-Holstein
 
 1\. Vorsitzender: Florian Wrobel  
-2\. Vorsitzende: Simone Kaletsch  
+2\. Vorsitzende: Alexandra Richter  
 Schatzmeisterin: Yana Käding  
-Generalsekretär: Kevin Heiler  
-Politischer Geschäftsführer: Alexander Schacht  
+Generalsekretär: Nils Henrik Köhler  
+Politischer Geschäftsführer: Markus Richter  
 Zentralinspektor: Jens Wemhöner  
 Politkommissar: Yorik Hansen  
-Propagandalf: Dennis Boysen  
+Propagandalf: Mirco Krüger  
 Stellvertretender Schatzmeister: Jannis Langmaack
 
 **Gründung:** 23. April 2009 in Uelvesbüll
