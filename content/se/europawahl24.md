@@ -1,5 +1,5 @@
 ---
-title: Kommunalwahl 2023
+title: Europawahl 2024
 social:
   - https://www.facebook.com/DiePARTEISegeberg/
   - https://m.me/DiePARTEISegeberg
