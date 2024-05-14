@@ -14,7 +14,7 @@ Es geht los am **16. Mai**, ab 12 Uhr mittags, bis zum 17. Mai, ebenfalls 12 Uhr
 - 16:15 FLO'S SHOW PARTEI, Europa, Seenotrettung
 - 17:15 D.N.A.
 - 18:15 Say Clap Ali Baby
-- 20:15 TAGESCIAO w/ LENSI?
+- 20:15 TAGESCIAO
 - 20:30 Nellson
 - 22:30 Philou & Imono
 - 00:30 Ali Baby gamma.cws
