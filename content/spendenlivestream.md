@@ -2,8 +2,12 @@
 title: Spenden-Livestream für die Humanity One
 ---
 
-![Spenden-Livestream für die Humanity One](/sh/spendenlivestream/01.png)
-![Spenden-Livestream für die Humanity One](/sh/spendenlivestream/02.png)
+{{< gallery >}}
+![Text im Bild: Seenotrettung retten! Spendenmarathon. 24 Stunden Livestream. 16. Mai 12 Uhr bis 17. Mai 12 Uhr.](/sh/spendenlivestream/01.png)
+![Text im Bild: 24h Livestream. twitch.tw/lunaclubkiel DJs, Musik, Tagesciao, Europafrühstück](/sh/spendenlivestream/02.png)
+![Text im Bild: Endspurt für die Spendenkampagne der Partei Die PARTEI. Du spendest, Die PARTEI legt 70% oben drauf](/sh/spendenlivestream/03.png)
+![Text im Bild: Spendenkonto: Die PARTEI, IBAN: DE20 4306 0967 4004 4016 00, Verwendungszweck: Werftkosten. Du findest Parteienfinanzierung doof und willst trotzdem Spenden? ](/sh/spendenlivestream/04.png)
+{{< /gallery >}}
 
 Unser Spendenmarathon für die Humanity One der NGO SOS Humanity geht in die nächste Runde! Seit etwas mehr als einem Monat haben wir bereits 17.000 Euro gesammelt, aber wir sind noch nicht am Ziel. Von den benötigten 23.500 Euro fehlen uns noch ein paar Tausend, um wirklich etwas zu bewegen. Durch die Parteienfinanzierung wird das gesammelte Geld am Ende von uns noch einmal verdoppelt. Das bedeutet, dass wir am Ende auf stolze 40.000 Euro kommen können, um die Humanity One zu unterstützen.
 
@@ -38,8 +42,9 @@ Spenden könnt ihr hier:
 Durch die Parteienfinanzierung legen wir noch einmal 70% oben drauf!
 
 <details>
-<summary>Wenn ihr keine Parteienfinanzierung doof findet aber trotzdem spenden möchtet:</summary>
+<summary>Du findest Parteienfinanzierung doof, aber möchtest trotzdem spenden:</summary>
 
+- SOS Humanity e.V.: DE04 1005 0000 0190 4184 51
 - Sea Watch e.V.: DE63 4306 0967 1239 7690 03
 - Sea-Eye e.V.: DE06 4306 0967 1311 9422 00
 - SOS MEDITERRANEE Germany: DE64 3702 0500 0001 8510 01
