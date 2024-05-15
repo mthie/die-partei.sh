@@ -2,7 +2,14 @@
 title: Spenden-Livestream für die Humanity One
 ---
 
+
+<details>
+
+<summary>Text ist doof. Zeig mir Bilder</summary>
+
 {{< gallery dir="/sh/spendenlivestream/" caption-position="none" hover-effect="none" item-height="33%" />}}
+
+</details>
 
 Unser Spendenmarathon für die Humanity One der NGO SOS Humanity geht in die nächste Runde! Seit etwas mehr als einem Monat haben wir bereits 17.000 Euro gesammelt, aber wir sind noch nicht am Ziel. Von den benötigten 23.500 Euro fehlen uns noch ein paar Tausend, um wirklich etwas zu bewegen. Durch die Parteienfinanzierung wird das gesammelte Geld am Ende von uns noch einmal verdoppelt. Das bedeutet, dass wir am Ende auf stolze 40.000 Euro kommen können, um die Humanity One zu unterstützen.
 
