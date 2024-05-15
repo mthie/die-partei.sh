@@ -2,12 +2,7 @@
 title: Spenden-Livestream für die Humanity One
 ---
 
-{{< gallery hover-effect="none" caption-effect="none" >}} {{< load-photoswipe >}}
-{{< picture src="/sh/spendenlivestream/01.png" caption="Text im Bild: Seenotrettung retten! Spendenmarathon. 24 Stunden Livestream. 16. Mai 12 Uhr bis 17. Mai 12 Uhr." >}}
-{{< picture src="/sh/spendenlivestream/02.png" caption="Text im Bild: 24h Livestream. twitch.tw/lunaclubkiel DJs, Musik, Tagesciao, Europafrühstück" >}}
-{{< picture src="/sh/spendenlivestream/03.png" caption="Text im Bild: Endspurt für die Spendenkampagne der Partei Die PARTEI. Du spendest, Die PARTEI legt 70% oben drauf" >}}
-{{< picture src="/sh/spendenlivestream/04.png" caption="Text im Bild: Spendenkonto: Die PARTEI, IBAN: DE20 4306 0967 4004 4016 00, Verwendungszweck: Werftkosten. Du findest Parteienfinanzierung doof und willst trotzdem Spenden?" >}}
-{{< /gallery >}}
+{{< gallery dir="/sh/spendenlivestream/" caption-position="none" hover-effect="none" item-height="33%" />}}
 
 Unser Spendenmarathon für die Humanity One der NGO SOS Humanity geht in die nächste Runde! Seit etwas mehr als einem Monat haben wir bereits 17.000 Euro gesammelt, aber wir sind noch nicht am Ziel. Von den benötigten 23.500 Euro fehlen uns noch ein paar Tausend, um wirklich etwas zu bewegen. Durch die Parteienfinanzierung wird das gesammelte Geld am Ende von uns noch einmal verdoppelt. Das bedeutet, dass wir am Ende auf stolze 40.000 Euro kommen können, um die Humanity One zu unterstützen.
 
