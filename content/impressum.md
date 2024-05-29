@@ -12,10 +12,10 @@ social: []
 **Angaben gemäß § 5 TMG sowie verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**
 
 Die PARTEI Schleswig-Holstein  
-c/o Jens Wemhöner  
-Jungfernstieg 7  
-24103 Kiel  
-Telefon: +49 1520 7179867  
+c/o Florian Wrobel  
+Gutenbergstraße 14  
+24118 Kiel  
+Telefon: +49 1512 9035859  
 E-Mail: mail@die-partei.sh
 
 ### Vorstand des Landesverbandes Schleswig-Holstein
