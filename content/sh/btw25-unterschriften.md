@@ -22,45 +22,45 @@ Frag deine Freunde, Familie und Bekannte, ob sie auch für uns unterschreiben wo
 
 Wir danken dir für deine Unterstützung!
 
-*Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail@die-partei.sh)*
+_Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail@die-partei.sh)_
 
 ## Landesliste
-
-![Karikatur vom LandesPARTEItag 2024](/sh/btw25-unterschriften/LandesPARTEItag2024.jpg)
-
 
 <details>
 <summary>Hier findest du unsere Landesliste:</summary>
 
-| Nr  | Name                   | Kreis                 |
-| --- | ---------------------- | --------------------- |
-| 1   | Niels Reimers          | Segeberg              |
-| 2   | Yana Käding            | Kiel                  |
-| 3   | Alexandra Richter      | Segeberg              |
-| 4   | Ove Schröter           | Kiel                  |
-| 5   | Beate Schreiber        | Segeberg              |
-| 6   | Nils-Henrik Köhler     | Plön                  |
-| 7   | Laura Strang           | Kiel                  |
-| 8   | Dada Böhmig            | Flensburg             |
-| 9   | Heike Suwito           | Rendsburg-Eckernförde |
-| 10  | Nicole Rakow           | Kiel                  |
-| 11  | Mirco Krüger           | Neumünster            |
-| 12  | Markus Richter         | Segeberg              |
-| 13  | Georg Weigand          | Stormarn              |
-| 14  | Nils-Hermann Saul      | Rendsburg-Eckernförde |
-| 15  | Florian Wrobel         | Kiel                  |
-| 16  | Finn Bichmann          | Kiel                  |
-| 17  | Torge Bornholdt        | Steinburg             |
-| 18  | Arne Schönfelder       | Stormarn              |
-| 19  | Christian Jahnke-Sauer | Segeberg              |
-| 20  | Simone Petersen        | Kiel                  |
-| 21  | Tizian Tobias Rausch   | Dithmarschen          |
-| 22  | Maike Lübbert          | Segeberg              |
-| 23  | Patrick Katzmann       | Neumünster            |
-| 24  | Hans Wischmann         | Kiel                  |
-| 25  | Jens Wemhöner          | Kiel                  |
-| 26  | Erik Weidler           | Kiel                  |
-| 27  | Tom Bertrang           | Kiel                  |
+| Listenplatz | Name                   | Kreis                 |
+| ----------- | ---------------------- | --------------------- |
+| 1           | Niels Reimers          | Segeberg              |
+| 2           | Yana Käding            | Kiel                  |
+| 3           | Alexandra Richter      | Segeberg              |
+| 4           | Ove Schröter           | Kiel                  |
+| 5           | Beate Schreiber        | Segeberg              |
+| 6           | Nils-Henrik Köhler     | Plön                  |
+| 7           | Laura Strang           | Kiel                  |
+| 8           | Dada Böhmig            | Flensburg             |
+| 9           | Heike Suwito           | Rendsburg-Eckernförde |
+| 10          | Nicole Rakow           | Kiel                  |
+| 11          | Mirco Krüger           | Neumünster            |
+| 12          | Markus Richter         | Segeberg              |
+| 13          | Georg Weigand          | Stormarn              |
+| 14          | Nils-Hermann Saul      | Rendsburg-Eckernförde |
+| 15          | Florian Wrobel         | Kiel                  |
+| 16          | Finn Bichmann          | Kiel                  |
+| 17          | Torge Bornholdt        | Steinburg             |
+| 18          | Arne Schönfelder       | Stormarn              |
+| 19          | Christian Jahnke-Sauer | Segeberg              |
+| 20          | Simone Petersen        | Kiel                  |
+| 21          | Tizian Tobias Rausch   | Dithmarschen          |
+| 22          | Maike Lübbert          | Segeberg              |
+| 23          | Patrick Katzmann       | Neumünster            |
+| 24          | Hans Wischmann         | Kiel                  |
+| 25          | Jens Wemhöner          | Kiel                  |
+| 26          | Erik Weidler           | Kiel                  |
+| 27          | Tom Bertrang           | Kiel                  |
 
 </details>
 
+![Karikatur vom LandesPARTEItag 2024](/sh/btw25-unterschriften/LandesPARTEItag2024.jpg)
+
+_Bild von Dada Böhmig_
