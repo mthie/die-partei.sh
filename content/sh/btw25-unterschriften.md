@@ -31,6 +31,7 @@ Wir danken dir für deine Unterstützung!
 
 <details>
 <summary>Hier findest du unsere Landesliste:</summary>
+
 | Nr  | Name                   | Kreis                 |
 | --- | ---------------------- | --------------------- |
 | 1   | Niels Reimers          | Segeberg              |
@@ -60,5 +61,6 @@ Wir danken dir für deine Unterstützung!
 | 25  | Jens Wemhöner          | Kiel                  |
 | 26  | Erik Weidler           | Kiel                  |
 | 27  | Tom Bertrang           | Kiel                  |
+
 </details>
 
