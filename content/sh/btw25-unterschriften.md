@@ -6,6 +6,7 @@ categories: []
 submenu: []
 social: []
 recentfrom: ""
+banner: /sh/btw25-unterschriften/LandesPARTEItag2024-1.jpg
 ---
 
 Am 13. Juli 2024 haben wir in Itzehoe unsere großartige Landesliste aufgestellt. Jetzt brauchen wir eure Unterstützung, um zur Bundestagswahl 2025 antreten zu können. Dafür benötigen wir 2.000 Unterstützungsunterschriften.
@@ -15,9 +16,9 @@ Hier findest du das Formular zum Download: [Unterstützungsunterschriftenformula
 
 Frag deine Freunde, Familie und Bekannte, ob sie auch für uns unterschreiben wollen. Jede Unterschrift zählt! Nach dem Ausfüllen des Formulars sende es bitte an:
 
-> Die PARTEI Schleswig-Holstein
-> c/o Jens Wemhöner
-> Jungfernstieg 7
+> Die PARTEI Schleswig-Holstein  
+> c/o Jens Wemhöner  
+> Jungfernstieg 7  
 > 24103 Kiel
 
 Wir danken dir für deine Unterstützung!
@@ -30,7 +31,7 @@ _Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail
 <summary>Hier findest du unsere Landesliste:</summary>
 
 | Listenplatz | Name                   | Kreis                 |
-| :---------: | ---------------------- | --------------------- |
+| :---------: | :--------------------- | :-------------------- |
 |      1      | Niels Reimers          | Segeberg              |
 |      2      | Yana Käding            | Kiel                  |
 |      3      | Alexandra Richter      | Segeberg              |
