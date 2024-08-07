@@ -61,6 +61,7 @@ _Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail
 
 </details>
 
-![Karikatur vom LandesPARTEItag 2024](/sh/btw25-unterschriften/LandesPARTEItag2024.jpg)
+![Karikatur vom LandesPARTEItag 2024 1](/sh/btw25-unterschriften/LandesPARTEItag2024-1.jpg)
+![Karikatur vom LandesPARTEItag 2024 2](/sh/btw25-unterschriften/LandesPARTEItag2024-2.jpg)
 
-_Bild von Dada Böhmig_
+_Zeichnungen von Dada Böhmig_
