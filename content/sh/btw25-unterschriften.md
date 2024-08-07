@@ -6,7 +6,6 @@ categories: []
 submenu: []
 social: []
 recentfrom: ""
-banner: /sh/btw25-unterschriften/LandesPARTEItag2024-1.jpg
 ---
 
 Am 13. Juli 2024 haben wir in Itzehoe unsere großartige Landesliste aufgestellt. Jetzt brauchen wir eure Unterstützung, um zur Bundestagswahl 2025 antreten zu können. Dafür benötigen wir 2.000 Unterstützungsunterschriften.
