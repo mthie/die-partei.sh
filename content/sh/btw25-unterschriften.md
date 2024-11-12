@@ -61,6 +61,8 @@ _Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail
 
 </details>
 
+## Direktkandidat\*innen
+
 <details open>
 <summary>In einigen Kreisen kannst du auch unsere Direktkandidat\*innen unterstützen:</summary>
 
@@ -70,6 +72,8 @@ _Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail
 
 </details>
 
+
+<br>
 ![Karikatur vom LandesPARTEItag 2024 1](/sh/btw25-unterschriften/LandesPARTEItag2024-1.jpg)
 ![Karikatur vom LandesPARTEItag 2024 2](/sh/btw25-unterschriften/LandesPARTEItag2024-2.jpg)
 
