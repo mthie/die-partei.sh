@@ -61,6 +61,15 @@ _Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail
 
 </details>
 
+<details open>
+<summary>In einigen Kreisen kannst du auch unsere Direktkandidat\*innen unterstützen:</summary>
+
+| Kreis                 | Direktkandidat\*in | Link zur Unterstützungsunterschrift                                                                      |
+| :-------------------- | :----------------- | :------------------------------------------------------------------------------------------------------- |
+| 6 - Plön - Neumünster | Mirco Krüger       | [Unterstützungsunterschrift](/plo/btw25-unterschriften/Die_PARTEI_Ploen_Unterstuetzungsunterschrift.pdf) |
+
+</details>
+
 ![Karikatur vom LandesPARTEItag 2024 1](/sh/btw25-unterschriften/LandesPARTEItag2024-1.jpg)
 ![Karikatur vom LandesPARTEItag 2024 2](/sh/btw25-unterschriften/LandesPARTEItag2024-2.jpg)
 
