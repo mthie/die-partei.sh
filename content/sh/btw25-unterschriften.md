@@ -64,7 +64,7 @@ _Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail
 ## Direktkandidat\*innen
 
 <details open>
-<summary>In einigen Kreisen kannst du auch unsere Direktkandidat\*innen unterstützen:</summary>
+<summary>In einigen Kreisen kannst du auch unsere Direktkandidat*innen unterstützen:</summary>
 
 | Kreis                 | Direktkandidat\*in | Formular                                                                                                 |
 | :-------------------- | :----------------- | :------------------------------------------------------------------------------------------------------- |
