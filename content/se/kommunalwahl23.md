@@ -1,19 +1,20 @@
 ---
 title: Kommunalwahl 2023
 social:
-- https://www.facebook.com/DiePARTEISegeberg/
-- https://m.me/DiePARTEISegeberg
-- https://www.instagram.com/die_partei_segeberg/
-- https://twitter.com/diePARTEI_SE
-- https://discord.gg/Yqm3gMkk7j
-- mailto:segeberg@die-partei.sh
+  - https://www.youtube.com/@parteisegeberg
+  - https://www.tiktok.com/@die_partei_kv_segeberg
+  - https://www.facebook.com/DiePARTEISegeberg/
+  - https://m.me/DiePARTEISegeberg
+  - https://www.instagram.com/die_partei_segeberg/
+  - https://twitter.com/diePARTEI_SE
+  - mailto:segeberg@die-partei.sh
 submenu:
-- name: Infos zur Kommunalwahl 2023
-  url: /se/kommunalwahl23/
-- name: Köpfe / Unser Team
-  url: /se/koepfe/
-- name: Kontakt
-  url: /se/kontakt/
+  - name: Infos zur Bundestagswahl 2025
+    url: /se/bundestagswahl25/
+  - name: Köpfe / Unser Team
+    url: /se/koepfe/
+  - name: Kontakt
+    url: /se/kontakt/
 ---
 
 Liebe GenossX,

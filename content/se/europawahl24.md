@@ -1,15 +1,16 @@
 ---
 title: Europawahl 2024
 social:
+  - https://www.youtube.com/@parteisegeberg
+  - https://www.tiktok.com/@die_partei_kv_segeberg
   - https://www.facebook.com/DiePARTEISegeberg/
   - https://m.me/DiePARTEISegeberg
   - https://www.instagram.com/die_partei_segeberg/
   - https://twitter.com/diePARTEI_SE
-  - https://discord.gg/Yqm3gMkk7j
   - mailto:segeberg@die-partei.sh
 submenu:
-  - name: Infos zur Europawahl 2024
-    url: /se/europawahl24/
+  - name: Infos zur Bundestagswahl 2025
+    url: /se/bundestagswahl25/
   - name: Köpfe / Unser Team
     url: /se/koepfe/
   - name: Kontakt

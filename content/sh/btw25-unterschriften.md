@@ -69,6 +69,7 @@ _Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail
 | Kreis                 | Direktkandidat\*in | Formular                                                                                                 |
 | :-------------------- | :----------------- | :------------------------------------------------------------------------------------------------------- |
 | 6 - Plön - Neumünster | Mirco Krüger       | [Unterstützungsunterschrift](/plo/btw25-unterschriften/Die_PARTEI_Ploen_Unterstuetzungsunterschrift.pdf) |
+| 8 - Segeberg - Stormarn-Mitte | Alexandra Richter | [Unterstützungsunterschrift](/se/btw25-unterschriften/Die_PARTEI_Segeberg_Unterstuetzungsunterschrift.pdf) |
 
 </details>
 
