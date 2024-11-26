@@ -39,4 +39,4 @@ Finn Bichmann, Kreisvorsitzender, ergänzt: "Wir hatten keine andere Wahl. Ove S
 steht, gerade im Vergleich zu den anderen Kanzlerkandidat\*innen, für Aufbruch und Jugend - er
 war selber überrascht..."
 
-*Unterstütze Ove Schröter mit deiner Unterschrift: [Unterstützungsunterschrift](/sh/btw25-unterschriften/Die_PARTEI_Unterstuetzungsunterschrift.pdf)*
+*Unterstütze Ove Schröter mit deiner Unterschrift: [Unterstützungsunterschrift](/ki/btw25-unterschriften/Die_PARTEI_Kiel_Unterstuetzungsunterschrift.pdf)*
