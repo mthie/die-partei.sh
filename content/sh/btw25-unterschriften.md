@@ -66,10 +66,11 @@ _Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail
 <details open>
 <summary>In einigen Kreisen kannst du auch unsere Direktkandidat*innen unterstützen:</summary>
 
-| Kreis                 | Direktkandidat\*in | Formular                                                                                                 |
-| :-------------------- | :----------------- | :------------------------------------------------------------------------------------------------------- |
-| 6 - Plön - Neumünster | Mirco Krüger       | [Unterstützungsunterschrift](/plo/btw25-unterschriften/Die_PARTEI_Ploen_Unterstuetzungsunterschrift.pdf) |
-| 8 - Segeberg - Stormarn-Mitte | Alexandra Richter | [Unterstützungsunterschrift](/se/btw25-unterschriften/Die_PARTEI_Segeberg_Unterstuetzungsunterschrift.pdf) |
+| Kreis                                   | Direktkandidat\*in | Formular                                                                                                   |
+| :-------------------------------------- | :----------------- | :--------------------------------------------------------------------------------------------------------- |
+| 5 - Kiel (inkl. Kronshagen - Altenholz) | Ove Schröter       | [Unterstützungsunterschrift](/ki/btw25-unterschriften/Die_PARTEI_Kiel_Unterstuetzungsunterschrift.pdf)     |
+| 6 - Plön - Neumünster                   | Mirco Krüger       | [Unterstützungsunterschrift](/plo/btw25-unterschriften/Die_PARTEI_Ploen_Unterstuetzungsunterschrift.pdf)   |
+| 8 - Segeberg - Stormarn-Mitte           | Alexandra Richter  | [Unterstützungsunterschrift](/se/btw25-unterschriften/Die_PARTEI_Segeberg_Unterstuetzungsunterschrift.pdf) |
 
 </details>
 
