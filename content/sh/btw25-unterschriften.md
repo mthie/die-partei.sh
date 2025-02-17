@@ -8,17 +8,15 @@ social: []
 recentfrom: ""
 ---
 
+**UPDATE:** Wir haben es geschafft! Du kannst die Landesliste der PARTEI zur Bundestagswahl 2025 in ganz Schleswig-Holstein wählen. Kieler\*innen können außerdem Ove Schröter ihre Erststimme geben. Vielen Dank an alle, die uns unterstützt haben!
+
+---
+
 Am 13. Juli 2024 haben wir in Itzehoe unsere großartige Landesliste aufgestellt. Jetzt brauchen wir eure Unterstützung, um zur Bundestagswahl 2025 antreten zu können. Dafür benötigen wir 2.000 Unterstützungsunterschriften.
 
 **Wohnst du in Schleswig-Holstein?** Dann kannst du uns helfen, indem auch du für uns unterschreibst.
-Hier findest du das Formular zum Download: [Unterstützungsunterschriftenformular](/sh/btw25-unterschriften/Die_PARTEI_Unterstuetzungsunterschrift.pdf)
 
-Frag deine Freunde, Familie und Bekannte, ob sie auch für uns unterschreiben wollen. Jede Unterschrift zählt! Nach dem Ausfüllen des Formulars sende es bitte an:
-
-> Die PARTEI Schleswig-Holstein  
-> c/o Jens Wemhöner  
-> Jungfernstieg 7  
-> 24103 Kiel
+Frag deine Freunde, Familie und Bekannte, ob sie auch für uns unterschreiben wollen. Jede Unterschrift zählt!
 
 Wir danken dir für deine Unterstützung!
 
@@ -43,21 +41,20 @@ _Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail
 |     10      | Nicole Rakow           | Kiel                  |
 |     11      | Mirco Krüger           | Neumünster            |
 |     12      | Markus Richter         | Segeberg              |
-|     13      | Georg Weigand          | Stormarn              |
-|     14      | Nils-Hermann Saul      | Rendsburg-Eckernförde |
-|     15      | Florian Wrobel         | Kiel                  |
-|     16      | Finn Bichmann          | Kiel                  |
-|     17      | Torge Bornholdt        | Steinburg             |
-|     18      | Arne Schönfelder       | Stormarn              |
-|     19      | Christian Jahnke-Sauer | Segeberg              |
-|     20      | Simone Petersen        | Kiel                  |
-|     21      | Tizian Tobias Rausch   | Dithmarschen          |
-|     22      | Maike Lübbert          | Segeberg              |
-|     23      | Patrick Katzmann       | Neumünster            |
-|     24      | Hans Wischmann         | Kiel                  |
-|     25      | Jens Wemhöner          | Kiel                  |
-|     26      | Erik Weidler           | Kiel                  |
-|     27      | Tom Bertrang           | Kiel                  |
+|     13      | Nils-Hermann Saul      | Rendsburg-Eckernförde |
+|     14      | Florian Wrobel         | Kiel                  |
+|     15      | Finn Bichmann          | Kiel                  |
+|     16      | Torge Bornholdt        | Steinburg             |
+|     17      | Arne Schönfelder       | Stormarn              |
+|     18      | Christian Jahnke-Sauer | Segeberg              |
+|     19      | Simone Petersen        | Kiel                  |
+|     20      | Tizian Tobias Rausch   | Dithmarschen          |
+|     21      | Maike Lübbert          | Segeberg              |
+|     22      | Patrick Katzmann       | Neumünster            |
+|     23      | Hans Wischmann         | Kiel                  |
+|     24      | Jens Wemhöner          | Kiel                  |
+|     25      | Erik Weidler           | Kiel                  |
+|     26      | Tom Bertrang           | Kiel                  |
 
 </details>
 
@@ -66,11 +63,7 @@ _Wenn du Fragen hast, melde dich gerne bei uns: [mail@die-partei.sh](mailto:mail
 <details open>
 <summary>In einigen Kreisen kannst du auch unsere Direktkandidat*innen unterstützen:</summary>
 
-| Kreis                                   | Direktkandidat\*in | Formular                                                                                                   |
-| :-------------------------------------- | :----------------- | :--------------------------------------------------------------------------------------------------------- |
-| 5 - Kiel (inkl. Kronshagen - Altenholz) | Ove Schröter       | [Unterstützungsunterschrift](/ki/btw25-unterschriften/Die_PARTEI_Kiel_Unterstuetzungsunterschrift.pdf)     |
-| 6 - Plön - Neumünster                   | Mirco Krüger       | [Unterstützungsunterschrift](/plo/btw25-unterschriften/Die_PARTEI_Ploen_Unterstuetzungsunterschrift.pdf)   |
-| 8 - Segeberg - Stormarn-Mitte           | Alexandra Richter  | [Unterstützungsunterschrift](/se/btw25-unterschriften/Die_PARTEI_Segeberg_Unterstuetzungsunterschrift.pdf) |
+In Wahlkreis 5 - Kiel (- Kronshagen - Altenholz) kandidiert **Ove Schröter**.
 
 </details>
 
