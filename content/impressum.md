@@ -35,7 +35,7 @@ Stellvertretender Schatzmeister: Jannis Langmaack
 ### Spendenkonto
 
 Die PARTEI Schleswig-Holstein  
-IBAN: DE17 4401 0046 0397 5414 65
+IBAN: DE47 2305 1030 0512 0139 39
 
 *Spendenquittungen können auf Wunsch ausgestellt werden. Bei Spenden und Beiträgen bis 200 € reicht jedoch in der Regel auch der Überweisungsbeleg bzw. der Kontoauszug als Nachweis.*
 
