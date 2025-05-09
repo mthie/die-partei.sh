@@ -1,0 +1,36 @@
+name: Deployment
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          lfs: true
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo #  --minify
+
+      - name: Rsync to server
+        uses: burnett01/rsync-deployments@5.2.1
+        with:
+          switches: -avzr --delete -O --exclude .git --exclude .gitignore --exclude *.yaml --exclude *.go --exclude *.tpl --exclude *.sh
+          path: ./public/
+          remote_path: ${{ secrets.SSH_PATH }}
+          remote_host: ${{ secrets.SSH_SERVER }}
+          remote_port: 22
+          remote_user: ${{ secrets.SSH_USER }}
+          remote_key: ${{ secrets.SSH_KEY }}
