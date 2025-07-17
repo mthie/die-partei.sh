@@ -9,10 +9,10 @@ submenu:
 
 1\. Vorsitzender: Nils
 
-2\. Vorsitzender: Heike
+2\. Vorsitzende: Heike
 
 Schatzmeister: Yorik
 
 Politischer Geschäftsführer: Christian
 
-Generalsekretär: Enrico
+Generalsekretär: Patrick
