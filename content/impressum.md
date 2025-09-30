@@ -23,9 +23,9 @@ E-Mail: mail@die-partei.sh
 1\. Vorsitzender: Florian Wrobel  
 2\. Vorsitzende: Alexandra Richter  
 Schatzmeisterin: Yana Käding  
-Generalsekretär: Nils Henrik Köhler  
+Generalsekretär: Niels Reimers  
 Politischer Geschäftsführer: Markus Richter  
-Zentralinspektor: Jens Wemhöner  
+Zentralinspektor: Lukas Bieber  
 Politkommissar: Yorik Hansen  
 Propagandalf: Mirco Krüger  
 Stellvertretender Schatzmeister: Jannis Langmaack
