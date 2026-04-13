@@ -9,7 +9,7 @@ canonifyURLs = true
 
 [permalinks]
 post = "/:section/:slug"
-node = "/:filename"
+node = "/:contentbasename"
 
 [params]
 author = "Die PARTEI - Landesverband Schleswig-Holstein"
