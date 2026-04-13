@@ -1,7 +1,7 @@
 ---
 title: Impressum
 slug: impressum
-date: "2021-01-10T00:00:00Z"
+date: "2026-04-13T00:00:00Z"
 tags: []
 categories: []
 submenu: []
